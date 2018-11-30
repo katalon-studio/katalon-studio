@@ -1,3 +1,9 @@
+---
+name: Bug report
+about: Create a report to help us improve
+
+---
+
 ## For helping us quickly analyze and resolve the issues/bugs, it's recommended to follow the below template as much as possible.
 
 
