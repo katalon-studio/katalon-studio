@@ -1,12 +1,12 @@
 [
     {
-        "os": "Mac (app)",
+        "os": "macOS (app)",
         "version": "5.10.1",
         "filename": "Katalon.Studio.app.zip",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.10.1/Katalon.Studio.app.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.10.1",
         "filename": "Katalon.Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.10.1/Katalon.Studio.dmg"
@@ -30,7 +30,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.10.1/Katalon_Studio_Windows_64-5.10.1.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.10.0",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.10.0/Katalon_Studio.dmg"
@@ -54,7 +54,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.10.0/Katalon_Studio_Windows_64-5.10.0.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.9.0",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.9.0/Katalon_Studio.dmg"
@@ -78,7 +78,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.9.0/Katalon_Studio_Windows_64-5.9.0.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.8.6",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.8.6/Katalon_Studio.dmg"
@@ -102,7 +102,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.8.6/Katalon_Studio_Windows_64-5.8.6.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.8.5",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.8.5/Katalon_Studio.dmg"
@@ -126,7 +126,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.8.5/Katalon_Studio_Windows_64-5.8.5.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.8.4",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.8.4/Katalon_Studio.dmg"
@@ -150,7 +150,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.8.4/Katalon_Studio_Windows_64-5.8.4.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.8.3",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.8.3/Katalon_Studio.dmg"
@@ -174,7 +174,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.8.3/Katalon_Studio_Windows_64-5.8.3.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.8.0",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.8.0/Katalon_Studio.dmg"
@@ -198,7 +198,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.8.0/Katalon_Studio_Windows_64-5.8.0.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.7.1",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.7.1/Katalon_Studio.dmg"
@@ -222,7 +222,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.7.1/Katalon_Studio_Windows_64-5.7.1.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "4.5.0",
         "filename": "Katalon_Studio-4.5.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v4.5.0/Katalon_Studio-4.5.dmg"
@@ -240,7 +240,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v4.5.0/Katalon_Studio_Windows_64-4.5.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "4.6.0",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v4.6.0/Katalon_Studio.dmg"
@@ -258,7 +258,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v4.6.0/Katalon_Studio_Windows_64-4.6.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "4.6.0.3",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v4.6.0.3/Katalon_Studio.dmg"
@@ -276,7 +276,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v4.6.0.3/Katalon_Studio_Windows_64-4.6.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "4.7.0",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v4.7.0/Katalon_Studio.dmg"
@@ -294,7 +294,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v4.7.0/Katalon_Studio_Windows_64-4.7.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "4.7.1",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v4.7.1/Katalon_Studio.dmg"
@@ -312,7 +312,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v4.7.1/Katalon_Studio_Windows_64-4.7.1.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "4.7.2",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v4.7.2/Katalon_Studio.dmg"
@@ -330,7 +330,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v4.7.2/Katalon_Studio_Windows_64-4.7.2.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.3.0",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.3.0/Katalon_Studio.dmg"
@@ -354,7 +354,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.3.0/Katalon_Studio_Windows_64-5.3.0.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "4.8.0",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v4.8.0/Katalon_Studio.dmg"
@@ -378,7 +378,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v4.8.0/Katalon_Studio_Windows_64-4.8.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.0.1",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.0.1/Katalon_Studio.dmg"
@@ -402,7 +402,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.0.1/Katalon_Studio_Windows_64.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.1.0",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.1.0/Katalon_Studio.dmg"
@@ -426,7 +426,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.1.0/Katalon_Studio_Windows_64-5.1.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.1.0.2",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.1.0.2/Katalon_Studio.dmg"
@@ -450,7 +450,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.1.0.2/Katalon_Studio_Windows_64-5.1.0.2.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.2.0.1",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.2.0.1/Katalon_Studio.dmg"
@@ -468,7 +468,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.2.0.1/Katalon_Studio_Windows_64-5.2.0.1.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.3.1",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.3.1/Katalon_Studio.dmg"
@@ -492,7 +492,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.3.1/Katalon_Studio_Windows_64-5.3.1.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.4.0",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.4.0/Katalon_Studio.dmg"
@@ -516,7 +516,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.4.0/Katalon_Studio_Windows_64-5.4.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.4.1",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.4.1/Katalon_Studio.dmg"
@@ -540,7 +540,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.4.1/Katalon_Studio_Windows_64-5.4.1.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.4.2",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.4.2/Katalon_Studio.dmg"
@@ -564,7 +564,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.4.2/Katalon_Studio_Windows_64-5.4.2.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.5.0",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.5.0/Katalon_Studio.dmg"
@@ -588,7 +588,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.5.0/Katalon_Studio_Windows_64-5.5.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.6.0",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.6.0/Katalon_Studio.dmg"
@@ -612,7 +612,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.6.0/Katalon_Studio_Windows_64-5.6.0.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.6.1",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.6.1/Katalon_Studio.dmg"
@@ -630,7 +630,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.6.1/Katalon_Studio_Windows_64-5.6.1.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.6.3",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.6.3/Katalon_Studio.dmg"
@@ -648,7 +648,7 @@
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.6.3/Katalon_Studio_Windows_64-5.6.3.zip"
     },
     {
-        "os": "Mac (dmg)",
+        "os": "macOS (dmg)",
         "version": "5.7.0",
         "filename": "Katalon_Studio.dmg",
         "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v5.7.0/Katalon_Studio.dmg"
