@@ -1,61 +1,45 @@
 const decompress = require('decompress');
 const decompressUnzip = require('decompress-unzip');
 const decompressTargz = require('decompress-targz');
-const args = process.argv;
-var path =process.argv[2];
-var version = process.argv[3];
-var fullname= path.replace(/^.*[\\\/]/, '');
-var filename = fullname.replace(/[\\\/\\.].*/, '');
-var filenamezip = path.replace(/^.*[\\\/\\\.]/, '');
-var pathsave = path.replace(fullname, '');
+const archiver = require('archiver');
+const fs = require('fs');
+const mkdirp = require('mkdirp');
+const path = require('path');
 
-if(filenamezip=='zip'){
-    decompress(path,`${filename}-${version}`, {
+const filePath = process.argv[2];
+const version = process.argv[3];
+
+const fileFullName = filePath.replace(/^.*[\\\/]/, '');
+const fileName = fileFullName.replace(/[\\\/\\.].*/, '');
+const fileExtension = fileFullName.replace(/^.*[\\\/\\\.]/, '');
+
+const parentDirPath = path.dirname(filePath);
+const outputDirPath = path.join(parentDirPath, 'output');
+mkdirp.sync(outputDirPath);
+
+const containingDirName = `${fileName}-${version}`;
+const containingDirPath = path.join(outputDirPath, containingDirName);
+
+function repackage(decompressPlugin, archive, extension) {
+    console.log(`Decompressing ${filePath} into ${containingDirPath}.`)
+    decompress(filePath, containingDirPath, {
         plugins: [
-            decompressUnzip()
+            decompressPlugin
         ]
     }).then(() => {
-        var archiver = require('archiver'),
-            archive = archiver('zip'),
-            fs = require('fs');
-            var mkdirp = require('mkdirp');
-            var outputfolder = mkdirp(pathsave+'/outputzip', function(err) { 
-            });
-            var outputpath= `${pathsave}outputzip/${filename}-${version}.zip`
-            var output = fs.createWriteStream(outputpath);
-            archive.pipe(output).on('finish', function () {
-    
-        });
-            archive.directory(`${filename}-${version}`,{ name:filename+'-'+version});
-            archive.finalize(function (err, bytes) {
-            if (err) {
-                throw err;
-            }
-        });
+        const outputFilePath = path.join(outputDirPath, `${containingDirName}.${extension}`);
+        const outputFile = fs.createWriteStream(outputFilePath);
+        console.log(`Compressing ${containingDirPath} into ${outputFilePath}.`);
+        archive.pipe(outputFile);
+        archive.directory(containingDirPath, containingDirName);
+        return archive.finalize();
     });
 }
-else{
-    
-    decompress(path,filename+'-'+version , {
-        plugins: [
-            decompressTargz()
-        ]
-    }).then(() => {
-        var archiver = require('archiver'),
-        archive = archiver('tar'),
-        fs = require('fs');
-        var mkdirp = require('mkdirp');
-        var outputfolder = mkdirp(pathsave+'/outputzip', function(err) { 
-            });
-        var outputpath= `${pathsave}outputzip/${filename}-${version}.tar.gz`
-        var output = fs.createWriteStream(outputpath);
-        archive.pipe(output).on('finish', function () {
-    });
-        archive.directory(`${filename}-${version}`,{ name:filename+'-'+version});
-        archive.finalize(function (err, bytes) {
-        if (err) {
-            throw err;
-        }
-     });
-    });
+
+if (fileExtension == 'zip'){
+    const archiveZip = archiver('zip');
+    repackage(decompressUnzip(), archiveZip, 'zip');
+} else {
+    const archiveTar = archiver('tar');
+    repackage(decompressTargz(), archiveTar, 'tar.gz');
 }
