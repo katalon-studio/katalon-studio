@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/katalon-studio/katalon-studio/issues"
   },
-  "homepage": "https://github.com/katalon-studio/katalon-studio#readme",
+  "homepage": "https://katalon.com",
   "dependencies": {
     "adm-zip": "^0.4.13",
     "archiver": "^3.0.0",
@@ -23,7 +23,6 @@
     "decompress-targz": "^4.1.1",
     "find-parent-dir": "^0.3.0",
     "mkdirp": "^0.5.1",
-    "node-console-input": "^1.1.1",
     "node-zip": "^1.1.1",
     "prompts": "^2.0.4",
     "zip": "^1.2.0",
