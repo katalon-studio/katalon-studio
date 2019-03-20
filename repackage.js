@@ -5,6 +5,7 @@ const archiver = require('archiver');
 const fs = require('fs');
 const mkdirp = require('mkdirp');
 const path = require('path');
+const tar = require('tar');
 
 const filePath = process.argv[2];
 const version = process.argv[3];
@@ -20,7 +21,7 @@ mkdirp.sync(outputDirPath);
 const containingDirName = `${fileName}-${version}`;
 const containingDirPath = path.join(outputDirPath, containingDirName);
 
-function repackage(decompressPlugin, archive, extension) {
+function repackage(decompressPlugin, compress, extension) {
     console.log(`Decompressing ${filePath} into ${containingDirPath}.`)
     decompress(filePath, containingDirPath, {
         plugins: [
@@ -28,18 +29,31 @@ function repackage(decompressPlugin, archive, extension) {
         ]
     }).then(() => {
         const outputFilePath = path.join(outputDirPath, `${containingDirName}.${extension}`);
-        const outputFile = fs.createWriteStream(outputFilePath);
         console.log(`Compressing ${containingDirPath} into ${outputFilePath}.`);
-        archive.pipe(outputFile);
-        archive.directory(containingDirPath, containingDirName);
-        return archive.finalize();
+        return compress(outputFilePath);
     });
 }
 
-if (fileExtension == 'zip'){
-    const archiveZip = archiver('zip');
-    repackage(decompressUnzip(), archiveZip, 'zip');
+function zip(outputFilePath) {
+    const outputFile = fs.createWriteStream(outputFilePath);
+    const archive = archiver('zip');
+    archive.pipe(outputFile);
+    archive.directory(containingDirPath, containingDirName);
+    return archive.finalize();
+}
+
+function targz(outputFilePath) {
+    return tar.c(
+        {
+            gzip: true,
+            file: outputFilePath
+        },
+        [containingDirPath]
+    );
+}
+
+if (fileExtension == 'zip') {
+    repackage(decompressUnzip(), zip, 'zip');
 } else {
-    const archiveTar = archiver('tar');
-    repackage(decompressTargz(), archiveTar, 'tar.gz');
+    repackage(decompressTargz(), targz, 'tar.gz');
 }
