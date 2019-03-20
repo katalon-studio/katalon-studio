@@ -46,9 +46,10 @@ function targz(outputFilePath) {
     return tar.c(
         {
             gzip: true,
-            file: outputFilePath
+            file: outputFilePath,
+            cwd: outputDirPath
         },
-        [containingDirPath]
+        [containingDirName]
     );
 }
 
