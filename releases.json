@@ -1,5 +1,41 @@
 [
     {
+        "os": "macOS (app)",
+        "version": "6.1.0",
+        "filename": "Katalon.Studio.app.zip",
+        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v6.1.0/Katalon.Studio.app.zip"
+    },
+    {
+        "os": "macOS (dmg)",
+        "version": "6.1.0",
+        "filename": "Katalon.Studio.dmg",
+        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v6.1.0/Katalon.Studio.dmg"
+    },
+    {
+        "os": "Linux",
+        "version": "6.1.0",
+        "filename": "Katalon_Studio_Linux_64-6.1.0.tar.gz",
+        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v6.1.0/Katalon_Studio_Linux_64-6.1.0.tar.gz"
+    },
+    {
+        "os": "Windows 32",
+        "version": "6.1.0",
+        "filename": "Katalon_Studio_Windows_32-6.1.0.zip",
+        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v6.1.0/Katalon_Studio_Windows_32-6.1.0.zip"
+    },
+    {
+        "os": "Windows 64",
+        "version": "6.1.0",
+        "filename": "Katalon_Studio_Windows_64-6.1.0.zip",
+        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v6.1.0/Katalon_Studio_Windows_64-6.1.0.zip"
+    },
+    {
+        "os": "macOS (app)",
+        "version": "6.0.6",
+        "filename": "Katalon.Studio.app.zip",
+        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v6.0.6/Katalon.Studio.app.zip"
+    },
+    {
         "os": "macOS (dmg)",
         "version": "6.0.6",
         "filename": "Katalon.Studio.dmg",
@@ -8,68 +44,20 @@
     {
         "os": "Linux",
         "version": "6.0.6",
-        "filename": "Katalon_Studio_Linux_64.tar.gz",
-        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v6.0.6/Katalon_Studio_Linux_64.tar.gz"
+        "filename": "Katalon_Studio_Linux_64-6.0.6.tar.gz",
+        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v6.0.6/Katalon_Studio_Linux_64-6.0.6.tar.gz"
     },
     {
         "os": "Windows 32",
         "version": "6.0.6",
-        "filename": "Katalon_Studio_Windows_32.zip",
-        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v6.0.6/Katalon_Studio_Windows_32.zip"
+        "filename": "Katalon_Studio_Windows_32-6.0.6.zip",
+        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v6.0.6/Katalon_Studio_Windows_32-6.0.6.zip"
     },
     {
         "os": "Windows 64",
         "version": "6.0.6",
-        "filename": "Katalon_Studio_Windows_64.zip",
-        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v6.0.6/Katalon_Studio_Windows_64.zip"
-    },
-    {
-        "os": "macOS (dmg)",
-        "version": "6.0.4",
-        "filename": "Katalon.Studio.dmg",
-        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/6.0.4/Katalon.Studio.dmg"
-    },
-    {
-        "os": "Linux",
-        "version": "6.0.4",
-        "filename": "Katalon_Studio_Linux_64.tar.gz",
-        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/6.0.4/Katalon_Studio_Linux_64.tar.gz"
-    },
-    {
-        "os": "Windows 32",
-        "version": "6.0.4",
-        "filename": "Katalon_Studio_Windows_32.zip",
-        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/6.0.4/Katalon_Studio_Windows_32.zip"
-    },
-    {
-        "os": "Windows 64",
-        "version": "6.0.4",
-        "filename": "Katalon_Studio_Windows_64.zip",
-        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/6.0.4/Katalon_Studio_Windows_64.zip"
-    },
-    {
-        "os": "macOS (dmg)",
-        "version": "6.0.5",
-        "filename": "Katalon.Studio.dmg",
-        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/6.0.5/Katalon.Studio.dmg"
-    },
-    {
-        "os": "Linux",
-        "version": "6.0.5",
-        "filename": "Katalon_Studio_Linux_64.tar.gz",
-        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/6.0.5/Katalon_Studio_Linux_64.tar.gz"
-    },
-    {
-        "os": "Windows 32",
-        "version": "6.0.5",
-        "filename": "Katalon_Studio_Windows_32.zip",
-        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/6.0.5/Katalon_Studio_Windows_32.zip"
-    },
-    {
-        "os": "Windows 64",
-        "version": "6.0.5",
-        "filename": "Katalon_Studio_Windows_64.zip",
-        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/6.0.5/Katalon_Studio_Windows_64.zip"
+        "filename": "Katalon_Studio_Windows_64-6.0.6.zip",
+        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v6.0.6/Katalon_Studio_Windows_64-6.0.6.zip"
     },
     {
         "os": "macOS (app)",
