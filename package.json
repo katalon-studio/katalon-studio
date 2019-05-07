@@ -1,10 +1,10 @@
 {
-    "name": "test-katalon",
+    "name": "katalon-studio",
     "version": "1.0.0",
     "description": "Katalon Studio is a free and robust automation solution for API, Web and Mobile testing. It integrates all necessary components with built-in keywords and project templates into a complete automation framework. Katalon Studio is easy-to-use for new users but still offers advanced capabilities for experienced users. The solution is trusted by an active community of over 150K users from 150+ countries around the world.",
-    "main": "repackage.js",
+    "main": "app.js",
     "scripts": {
-        "start": "node repackage.js"
+        "start": "node app.js"
     },
     "keywords": [
         "none"
@@ -14,5 +14,5 @@
     "dependencies": {
         "gh-release": "^3.5.0"
     },
-    "repository": "https://github.com/hiepdang1908/faceapi"
+    "repository": "https://github.com/katalon-studio/katalon-studio"
 }
