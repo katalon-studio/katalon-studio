@@ -14,5 +14,5 @@
     "dependencies": {
         "gh-release": "^3.5.0"
     },
-    "repository": "https://github.com/hiepdang1908/test-katalon"
+    "repository": "https://github.com/katalon-studio/katalon-studio"
 }

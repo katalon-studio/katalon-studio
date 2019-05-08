@@ -17,8 +17,8 @@ for(var i=5;i<filelocation;i++){
     assets: relativePath,
     draft: true,
     prerelease: false,
-    repo: 'test-katalon',
-    owner: 'hiepdang1908',
+    repo: 'katalon-studio',
+    owner: 'katalon-studio',
     endpoint: 'https://api.github.com'
   }
   
@@ -47,8 +47,8 @@ const options = {
   assets: [relativePath],
   draft: true,
   prerelease: false,
-  repo: 'test-katalon',
-  owner: 'hiepdang1908',
+  repo: 'katalon-studio',
+  owner: 'katalon-studio',
   endpoint: 'https://api.github.com'
 }
 
