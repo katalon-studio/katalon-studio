@@ -1,8 +1,8 @@
 
 {
-    "latestVersion": "6.2.2",
+    "latestVersion": "6.3.0",
     "newMechanism": true,
-    "latestUpdateLocation": "https://katalon.s3.amazonaws.com/update/6.2.2",
+    "latestUpdateLocation": "https://katalon.s3.amazonaws.com/update/6.3.0",
     "releaseNotesLink": "https://docs.katalon.com/katalon-studio/new/index.html",
     "quickRelease": true
 }
