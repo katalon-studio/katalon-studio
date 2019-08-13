@@ -1,18 +1,18 @@
 [
     {
-        "location": "https://download.katalon.com/6.3.1/Katalon_Studio_Windows_32-6.3.1.zip",
+        "location": "https://download.katalon.com/6.3.2/Katalon_Studio_Windows_32-6.3.2.zip",
         "file": "win_32"
     },
     {
-        "location": "https://download.katalon.com/6.3.1/Katalon_Studio_Windows_64-6.3.1.zip",
+        "location": "https://download.katalon.com/6.3.2/Katalon_Studio_Windows_64-6.3.2.zip",
         "file": "win_64"
     },
     {
-        "location": "https://download.katalon.com/6.3.1/Katalon%20Studio.dmg",
+        "location": "https://download.katalon.com/6.3.2/Katalon%20Studio.dmg",
         "file": "mac_64"
     },
     {
-        "location": "https://download.katalon.com/6.3.1/Katalon_Studio_Linux_64-6.3.1.tar.gz",
+        "location": "https://download.katalon.com/6.3.2/Katalon_Studio_Linux_64-6.3.2.tar.gz",
         "file": "linux_64"
     }
 ]
