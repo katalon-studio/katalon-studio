@@ -1,41 +1,41 @@
 [
     {
-        "location": "https://download.katalon.com/7.0.5/Katalon_Studio_Windows_32-7.0.5.zip",
+        "location": "https://download.katalon.com/7.0.6/Katalon_Studio_Windows_32-7.0.6.zip",
         "file": "win_32",
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/7.0.5/Katalon_Studio_Windows_64-7.0.5.zip",
+        "location": "https://download.katalon.com/7.0.6/Katalon_Studio_Windows_64-7.0.6.zip",
         "file": "win_64",
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/7.0.5/Katalon%20Studio.dmg",
+        "location": "https://download.katalon.com/7.0.6/Katalon%20Studio.dmg",
         "file": "mac_64",
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/7.0.5/Katalon_Studio_Linux_64-7.0.5.tar.gz",
+        "location": "https://download.katalon.com/7.0.6/Katalon_Studio_Linux_64-7.0.6.tar.gz",
         "file": "linux_64",
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/7.0.5/Katalon_Studio_Engine_Windows_32-7.0.5.zip",
+        "location": "https://download.katalon.com/7.0.6/Katalon_Studio_Engine_Windows_32-7.0.6.zip",
         "file": "win_32",
         "type": "re"
     },
     {
-        "location": "https://download.katalon.com/7.0.5/Katalon_Studio_Engine_Windows_64-7.0.5.zip",
+        "location": "https://download.katalon.com/7.0.6/Katalon_Studio_Engine_Windows_64-7.0.6.zip",
         "file": "win_64",
         "type": "re"
     },
     {
-        "location": "https://download.katalon.com/7.0.5/Katalon_Studio_Engine_MacOS-7.0.5.tar.gz",
+        "location": "https://download.katalon.com/7.0.6/Katalon_Studio_Engine_MacOS-7.0.6.tar.gz",
         "file": "mac_64",
         "type": "re"
     },
     {
-        "location": "https://download.katalon.com/7.0.5/Katalon_Studio_Engine_Linux_64-7.0.5.tar.gz",
+        "location": "https://download.katalon.com/7.0.6/Katalon_Studio_Engine_Linux_64-7.0.6.tar.gz",
         "file": "linux_64",
         "type": "re"
     }
