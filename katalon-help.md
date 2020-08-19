@@ -1,4 +1,4 @@
-Don't miss our new features:
+Don't miss out on new features:
 
 * [Katalon Studio Enterprise] Support Self-Healing Web tests. [Learn more](https://docs.katalon.com/katalon-studio/docs/self-healing.html)
 * [Katalon Studio Enterprise] Support setting timeout and maximum response size for API requests. [Learn more](https://docs.katalon.com/katalon-studio/docs/execution-settings.html#web-service-settings)
