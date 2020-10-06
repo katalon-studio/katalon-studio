@@ -4,7 +4,7 @@
 
 Katalon Studio **7.8** supports restoring the AUT to the state when the test fails due to locators not finding Web UI objects. This powerful capability allows you to open a "time capsule" for fixing broken objects, reducing reproduction effort, and cutting off time spent on troubleshooting and maintaining your test scripts. [Read more](https://docs.katalon.com/katalon-studio/docs/time-capsule.html)
 
-<img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/time-capsule/test-suite-fail.gif" width=924>
+<img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/time-capsule/test-suite-fail.gif" width=40%>
 
 ### Coordinate-based Recording
 
@@ -25,5 +25,5 @@ With Screen Recorder, you can capture what's visible on the screen while with th
 * **Record video of Headless browser**: Headless Browser is a way to run browsers in a headless environment, popularly used for test automation and browser testing in CI/CD pipeline when you don't need a visible GUI. You can learn more about Headless Browser Execution in this [manual](https://docs.katalon.com/katalon-studio/docs/headless-browsers-execution.html).
 * **Record videos of multiple browsers simultaneously**, for instance, parallel execution of Test Suite Collection.
 
-> [Learn how to ](https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-video-recorder)
+> [Learn how to configure](https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-video-recorder)
 
