@@ -1,12 +1,12 @@
 ## Version 7.8 (Beta) Highlights
 
-### Time Capsule 
+### Time Capsule for Web UI
 
 Katalon Studio **7.8** supports restoring the AUT to the state when the test fails due to locators not finding Web UI objects. This powerful capability allows you to open a "time capsule" for fixing broken objects, reducing reproduction effort, and cutting off time spent on troubleshooting and maintaining your test scripts. [Read more](https://docs.katalon.com/katalon-studio/docs/time-capsule.html)
 
 <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/time-capsule/test-suite-fail.gif" width=100%>
 
-### Coordinate-based Recording
+### Coordinate-based Recording for Windows
 
 With coordinates-based recording, Katalon Studio records an element's relative coordinates in addition to its selector. For instance, you want to click on the red X part to close a tab in Notepad. Katalon Recorder records the button's offsets (its relative coordinates to its top-left corner) as a set of parameters representing an X and Y offset, and save them in clickElementOffset. It uses them to identify the exact location to perform a click action during runtime.
 
