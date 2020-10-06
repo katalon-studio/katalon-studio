@@ -1,10 +1,29 @@
-Don't miss out on new features:
+## Version 7.8 (Beta) Highlights
 
-* [Katalon Studio Enterprise] Support Self-Healing Web tests. [Learn more](https://docs.katalon.com/katalon-studio/docs/self-healing.html)
-* [Katalon Studio Enterprise] Support setting timeout and maximum response size for API requests. [Learn more](https://docs.katalon.com/katalon-studio/docs/execution-settings.html#web-service-settings)
-* [Katalon Studio Enterprise] Support retrying failed test executions immediately in Test Suite's execution. [Learn more](https://docs.katalon.com/katalon-studio/docs/test-suite.html#retry)
-* [Mobile Testing] Fully support Selector Strategies. [Learn more](https://docs.katalon.com/katalon-studio/docs/locators_object_identification.html)
-* [API Testing] Support importing RESTful requests from SoapUI to Katalon Studio. [Learn more](https://docs.katalon.com/katalon-studio/docs/import-soapui.html)
-* [Desktop Testing] Support new Windows keywords, including [setEncryptedText](https://docs.katalon.com/katalon-studio/docs/windows-kw-set-encrypted-text.html), [getAttribute](https://docs.katalon.com/katalon-studio/docs/windows-kw-get-attribute.html), [verifyElementAttributeValue](https://docs.katalon.com/katalon-studio/docs/windows-kw-verify-element-attribute-value.html), [waitForElementAttributeValue](https://docs.katalon.com/katalon-studio/docs/windows-kw-wait-element-attribute-value.html), [verifyElementPresent](https://docs.katalon.com/katalon-studio/docs/windows-kw-verify-element-present.html), [verifyElementNotPresent](https://docs.katalon.com/katalon-studio/docs/windows-kw-verify-element-not-present.html), [waitForElementPresent](https://docs.katalon.com/katalon-studio/docs/windows-kw-wait-element-present.html), and [waitForElementNotPresent](https://docs.katalon.com/katalon-studio/docs/windows-kw-wait-element-not-present.html)
-* Allow overriding `Browser Type` and `Execution Profile` of all Test Suites in a Test Suite Collection via command line. [Learn more](https://docs.katalon.com/katalon-studio/docs/console-mode-execution.html#command-builder)
-* Support displaying description of Custom Keywords in test cases (same as built-in keywords)
+### Time Capsule 
+
+Katalon Studio **7.8** supports restoring the AUT to the state when the test fails due to locators not finding Web UI objects. This powerful capability allows you to open a "time capsule" for fixing broken objects, reducing reproduction effort, and cutting off time spent on troubleshooting and maintaining your test scripts. [Read more](https://docs.katalon.com/katalon-studio/docs/time-capsule.html)
+
+<img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/time-capsule/test-suite-fail.gif">
+
+### Coordinate-based Recording
+
+With coordinates-based recording, Katalon Studio records an element's relative coordinates in addition to its selector. For instance, you want to click on the red X part to close a tab in Notepad. Katalon Recorder records the button's offsets (its relative coordinates to its top-left corner) as a set of parameters representing an X and Y offset, and save them in clickElementOffset. It uses them to identify the exact location to perform a click action during runtime.
+
+In [Windows Recorder](https://docs.katalon.com/katalon-studio/docs/windows-recorder-tutorials.html), the two buttons, including **Click Element Offset** and **Right-click Element Offset** are added to **Possible Actions**.
+
+In [Native Windows Recorder](https://docs.katalon.com/katalon-studio/docs/windows-recorder-tutorials.html), with the enabled **coordinate-based recording**, `click` and `rightClick` actions are recorded as `clickElementOffset` and `rightClickElementOffset` actions respectively. The following keywords are supported: 
+
+* [[Windows] Click Element Offset](https://docs.katalon.com/katalon-studio/docs/windows-kw-click-element-offset.html)
+* [[Windows] Right-click Element Offset](https://docs.katalon.com/katalon-studio/docs/windows-kw-rightclick-element-offset.html)
+
+### Browser-based Video Recorder
+
+With Screen Recorder, you can capture what's visible on the screen while with the Browser-based Video Recorder, you can:
+
+* **Record video of browser window only** (Even it's hidden behind another window)
+* **Record video of Headless browser**: Headless Browser is a way to run browsers in a headless environment, popularly used for test automation and browser testing in CI/CD pipeline when you don't need a visible GUI. You can learn more about Headless Browser Execution in this [manual](https://docs.katalon.com/katalon-studio/docs/headless-browsers-execution.html).
+* **Record videos of multiple browsers simultaneously**, for instance, parallel execution of Test Suite Collection.
+
+> [Learn how to ](https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-video-recorder)
+
