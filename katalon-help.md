@@ -6,7 +6,7 @@ Katalon Studio **7.8** supports restoring the AUT to the state when the test fai
 
 > [Read more](https://docs.katalon.com/katalon-studio/docs/time-capsule.html)
 
-<img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/time-capsule/test-suite-fail.gif" width=40%>
+<img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/time-capsule/test-suite-fail.gif" width=100%>
 
 ### Coordinate-based Recording
 
