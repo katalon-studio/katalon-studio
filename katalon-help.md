@@ -4,7 +4,7 @@
 
 Katalon Studio **7.8** supports restoring the AUT to the state when the test fails due to locators not finding Web UI objects. This powerful capability allows you to open a "time capsule" for fixing broken objects, reducing reproduction effort, and cutting off time spent on troubleshooting and maintaining your test scripts. [Read more](https://docs.katalon.com/katalon-studio/docs/time-capsule.html)
 
-<img alt="Capture Objects with Time Capsule" src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/time-capsule/test-case-fail.gif" width=100%>
+<img alt="Capture Objects with Time Capsule" src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/time-capsule/click-help-78.png" width=100%>
 
 ### Coordinate-based Recording for Windows
 
