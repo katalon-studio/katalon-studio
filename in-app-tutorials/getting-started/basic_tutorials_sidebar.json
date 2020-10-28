@@ -3,98 +3,148 @@
     webui:[
         {
             "id": "1",
-            "title": "First tutorial",
+            "title": "Create your first Test Case by recording",
             "url": "https://github.com/..."
         },
         {
             "id": "2",
-            "title": "Second tutorial",
+            "title": "Run your test and view execution log",
             "url": "https://github.com/..."
         },
         {
             "id": "3",
-            "title": "Third tutorial",
+            "title": "Plan your test by using Test Suite",
             "url": "https://github.com/..."
         },
         {
             "id": "4",
-            "title": "Forth tutorial",
+            "title": "Execute a Test Suite",
+            "url": "https://github.com/..."
+        },
+        {
+            "id": "5",
+            "title": "View execution log",
+            "url": "https://github.com/..."
+        },
+        {
+            "id": "6",
+            "title": "Test Suite Report",
             "url": "https://github.com/..."
         }
     ],
     api:[
         {
             "id": "1",
-            "title": "First tutorial",
+            "title": "Import test requests",
             "url": "https://github.com/..."
         },
         {
             "id": "2",
-            "title": "Second tutorial",
+            "title": "Validate your test requests",
             "url": "https://github.com/..."
         },
         {
             "id": "3",
-            "title": "ç tutorial",
+            "title": "Create your first test case",
             "url": "https://github.com/..."
         },
         {
             "id": "4",
-            "title": "Forth tutorial",
+            "title": "Run your test and view execution log",
+            "url": "https://github.com/..."
+        },
+        {
+            "id": "5",
+            "title": "Plan your test by using Test Suite",
+            "url": "https://github.com/..."
+        },
+        {
+            "id": "6",
+            "title": "Execute a Test Suite",
+            "url": "https://github.com/..."
+        },
+        {
+            "id": "7",
+            "title": "View execution log",
+            "url": "https://github.com/..."
+        },
+        {
+            "id": "8",
+            "title": "Test Suite Report",
             "url": "https://github.com/..."
         }
     ],
     mobile: [
         {
             "id": "1",
-            "title": "First tutorial",
+            "title": "Set up for Mobile Testing",
             "url": "https://github.com/..."
         },
         {
             "id": "2",
-            "title": "Second tutorial",
+            "title": "Create your first test case by recording",
             "url": "https://github.com/..."
         },
         {
             "id": "3",
-            "title": "Forth tutorial",
+            "title": "Run your test and view execution log",
             "url": "https://github.com/..."
         },
         {
             "id": "4",
-            "title": "Forth tutorial",
+            "title": "Plan your test by using Test Suite",
             "url": "https://github.com/..."
         },
         {
             "id": "5",
-            "title": "Fifth tutorial",
+            "title": "Execute a Test Suite",
+            "url": "https://github.com/..."
+        },
+        {
+            "id": "6",
+            "title": "View execution log",
+            "url": "https://github.com/..."
+        },
+        {
+            "id": "7",
+            "title": "Test Suite Report",
             "url": "https://github.com/..."
         }
     ],
     desktop: [
         {
             "id": "1",
-            "title": "First tutorial",
+            "title": "Set up WinAppDriver",
             "url": "https://github.com/..."
         },
         {
             "id": "2",
-            "title": "Second tutorial",
+            "title": "Create your first test case by recording",
             "url": "https://github.com/..."
         },
         {
             "id": "3",
-            "title": "Third tutorial",
+            "title": "Run your test and view execution log",
             "url": "https://github.com/..."
         },
         {
             "id": "4",
-            "title": "Forth tutorial",
+            "title": "Plan your test by using Test Suite",
             "url": "https://github.com/..."
         },
         {
             "id": "5",
-            "title": "Fifth tutorial",
+            "title": "Execute a Test Suite",
+            "url": "https://github.com/..."
+        },
+        {
+            "id": "6",
+            "title": "View execution log",
+            "url": "https://github.com/..."
+        },
+        {
+            "id": "7",
+            "title": "Test Suite Report",
             "url": "https://github.com/..."
         }
     ]
