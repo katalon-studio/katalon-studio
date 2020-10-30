@@ -1,178 +1,178 @@
 
 {
-    webui:[
+    "webui":[
         {
             "id": "1",
             "title": "Create your first Test Case by recording",
-            "path": "web-ui/webui-create-test-case.md",
+            "url": "web-ui/webui-create-test-case.md",
             "icon": "create.png"
         },
         {
             "id": "2",
             "title": "Run your test and view execution log",
-            "path": "web-ui/webui-run-test-case.md",
+            "url": "web-ui/webui-run-test-case.md",
             "icon": "run.png"
         },
         {
             "id": "3",
             "title": "Plan your test by using Test Suite",
-            "path": "web-ui/webui-plan-test-suite.md",
+            "url": "web-ui/webui-plan-test-suite.md",
             "icon": "plan.png"
         },
         {
             "id": "4",
             "title": "Execute a Test Suite",
-            "path": "web-ui/webui-run-test-suite.md",
+            "url": "web-ui/webui-run-test-suite.md",
             "icon": "run.png"
         },
         {
             "id": "5",
             "title": "View execution log",
-            "path": "web-ui/webui-view-execution-log.md",
+            "url": "web-ui/webui-view-execution-log.md",
             "icon": "view.png"
         },
         {
             "id": "6",
             "title": "Test Suite Report",
-            "path": "web-ui/webui-test-suite-report.md",
+            "url": "web-ui/webui-test-suite-report.md",
             "icon": "report.png"
         }
     ],
-    api:[
+    "api":[
         {
             "id": "1",
             "title": "Import test requests",
-            "path": "api/api-import-request.md",
+            "url": "api/api-import-request.md",
             "icon": "import.png"
         },
         {
             "id": "2",
             "title": "Validate your test requests",
-            "path": "api/api-validate-request.md",
+            "url": "api/api-validate-request.md",
             "icon": "validate.png"
         },
         {
             "id": "3",
             "title": "Create your first test case",
-            "path": "api/api-create-test-case.md",
+            "url": "api/api-create-test-case.md",
             "icon": "create.png"
         },
         {
             "id": "4",
             "title": "Run your test and view execution log",
-            "path": "api/api-run-test-case.md",
+            "url": "api/api-run-test-case.md",
             "icon": "run.png"
         },
         {
             "id": "5",
             "title": "Plan your test by using Test Suite",
-            "path": "api/api-plan-test-suite.md",
+            "url": "api/api-plan-test-suite.md",
             "icon": "plan.png"
         },
         {
             "id": "6",
             "title": "Execute a Test Suite",
-            "path": "api/api-run-test-suite.md",
+            "url": "api/api-run-test-suite.md",
             "icon": "execute.png"
         },
         {
             "id": "7",
             "title": "View execution log",
-            "path": "api/api-view-execution-log.md",
+            "url": "api/api-view-execution-log.md",
             "icon": "view.png"
         },
         {
             "id": "8",
             "title": "Test Suite Report",
-            "path": "api/api-test-suite-report.md",
+            "url": "api/api-test-suite-report.md",
             "icon": "report.png"
         }
     ],
-    mobile: [
+    "mobile": [
         {
             "id": "1",
             "title": "Set up for Mobile Testing",
-            "path": "mobile/mobile-setup.md",
+            "url": "mobile/mobile-setup.md",
             "icon": "setup.png"
         },
         {
             "id": "2",
             "title": "Create your first test case by recording",
-            "path": "mobile/mobile-create-test-case.md",
+            "url": "mobile/mobile-create-test-case.md",
             "icon": "create.png"
         },
         {
             "id": "3",
             "title": "Run your test and view execution log",
-            "path": "mobile/mobile-run-test-case.md",
+            "url": "mobile/mobile-run-test-case.md",
             "icon": "run.png"
         },
         {
             "id": "4",
             "title": "Plan your test by using Test Suite",
-            "path": "mobile/mobile-plan-test-suite.md",
+            "url": "mobile/mobile-plan-test-suite.md",
             "icon": "plan.png"
         },
         {
             "id": "5",
             "title": "Execute a Test Suite",
-            "path": "mobile/mobile-run-test-suite.md",
+            "url": "mobile/mobile-run-test-suite.md",
             "icon": "execute.png"
         },
         {
             "id": "6",
             "title": "View execution log",
-            "path": "mobile/mobile-view-execution-log.md",
+            "url": "mobile/mobile-view-execution-log.md",
             "icon": "view.png"
         },
         {
             "id": "7",
             "title": "Test Suite Report",
-            "path": "mobile/mobile-test-suite-report.md",
+            "url": "mobile/mobile-test-suite-report.md",
             "icon": "report.png"
         }
     ],
-    desktop: [
+    "desktop": [
         {
             "id": "1",
             "title": "Set up WinAppDriver",
-            "path": "desktop/windows-setup.md",
+            "url": "desktop/windows-setup.md",
             "icon": "setup.png"
         },
         {
             "id": "2",
             "title": "Create your first test case by recording",
-            "path": "desktop/windows-create-test-case.md",
+            "url": "desktop/windows-create-test-case.md",
             "icon": "create.png"
         },
         {
             "id": "3",
             "title": "Run your test and view execution log",
-            "path": "desktop/windows-run-test-case.md",
+            "url": "desktop/windows-run-test-case.md",
             "icon": "run.png"
         },
         {
             "id": "4",
             "title": "Plan your test by using Test Suite",
-            "path": "desktop/windows-plan-test-suite.md",
+            "url": "desktop/windows-plan-test-suite.md",
             "icon": "plan.png"
         },
         {
             "id": "5",
             "title": "Execute a Test Suite",
-            "path": "desktop/windows-run-test-suite.md",
+            "url": "desktop/windows-run-test-suite.md",
             "icon": "execute.png"
         },
         {
             "id": "6",
             "title": "View execution log",
-            "path": "desktop/windows-view-execution-log.md",
+            "url": "desktop/windows-view-execution-log.md",
             "icon": "view.png"
         },
         {
             "id": "7",
             "title": "Test Suite Report",
-            "path": "desktop/windows-test-suite-report.md",
+            "url": "desktop/windows-test-suite-report.md",
             "icon": "report.png"
         }
     ]
