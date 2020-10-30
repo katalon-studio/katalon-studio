@@ -1,6 +1,6 @@
 
 {
-    "webui":[
+    webui:[
         {
             "id": "1",
             "title": "Create your first Test Case by recording",
@@ -38,7 +38,7 @@
             "icon": "report.png"
         }
     ],
-    "api":[
+    api:[
         {
             "id": "1",
             "title": "Import test requests",
@@ -88,7 +88,7 @@
             "icon": "report.png"
         }
     ],
-    "mobile": [
+    mobile: [
         {
             "id": "1",
             "title": "Set up for Mobile Testing",
@@ -132,7 +132,7 @@
             "icon": "report.png"
         }
     ],
-    "desktop": [
+    desktop: [
         {
             "id": "1",
             "title": "Set up WinAppDriver",
