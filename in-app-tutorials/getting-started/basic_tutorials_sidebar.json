@@ -8,13 +8,13 @@
         },
         {
             "id": "2",
-            "title": "Run your test and view execution log",
+            "title": "Run your test case and view execution log",
             "url": "/in-app-tutorials/getting-started/web-ui/webui-run-test-case.md"
         },
         {
             "id": "3",
             "title": "Plan your test by using Test Suite",
-            "url": "/in-app-tutorials/getting-started/web-ui/webui-plan-test-suite.md"
+            "url": "/in-app-tutorials/getting-started/shared-tutorials/plan-test-suite.md"
         },
         {
             "id": "4",
@@ -24,12 +24,12 @@
         {
             "id": "5",
             "title": "View execution log",
-            "url": "/in-app-tutorials/getting-started/web-ui/webui-view-execution-log.md"
+            "url": "/in-app-tutorials/getting-started/shared-tutorials/view-execution-log.md"
         },
         {
             "id": "6",
             "title": "Test Suite Report",
-            "url": "/in-app-tutorials/getting-started/web-ui/webui-test-suite-report.md"
+            "url": "/in-app-tutorials/getting-started/shared-tutorials/test-suite-report.md"
         }
     ],
     api:[
@@ -50,13 +50,13 @@
         },
         {
             "id": "4",
-            "title": "Run your test and view execution log",
+            "title": "Run your test case and view execution log",
             "url": "/in-app-tutorials/getting-started/api/api-run-test-case.md"
         },
         {
             "id": "5",
             "title": "Plan your test by using Test Suite",
-            "url": "/in-app-tutorials/getting-started/api/api-plan-test-suite.md"
+            "url": "/in-app-tutorials/getting-started/shared-tutorials/plan-test-suite.md"
         },
         {
             "id": "6",
@@ -66,12 +66,12 @@
         {
             "id": "7",
             "title": "View execution log",
-            "url": "/in-app-tutorials/getting-started/api/api-view-execution-log.md"
+            "url": "/in-app-tutorials/getting-started/shared-tutorials/view-execution-log.md"
         },
         {
             "id": "8",
             "title": "Test Suite Report",
-            "url": "/in-app-tutorials/getting-started/api/api-test-suite-report.md"
+            "url": "/in-app-tutorials/getting-started/shared-tutorials/test-suite-report.md"
         }
     ],
     mobile: [
@@ -87,13 +87,13 @@
         },
         {
             "id": "3",
-            "title": "Run your test and view execution log",
+            "title": "Run your test case and view execution log",
             "url": "/in-app-tutorials/getting-started/mobile/mobile-run-test-case.md"
         },
         {
             "id": "4",
             "title": "Plan your test by using Test Suite",
-            "url": "/in-app-tutorials/getting-started/mobile/mobile-plan-test-suite.md"
+            "url": "/in-app-tutorials/getting-started/shared-tutorials/plan-test-suite.md"
         },
         {
             "id": "5",
@@ -103,12 +103,12 @@
         {
             "id": "6",
             "title": "View execution log",
-            "url": "/in-app-tutorials/getting-started/mobile/mobile-view-execution-log.md"
+            "url": "/in-app-tutorials/getting-started/shared-tutorials/view-execution-log.md"
         },
         {
             "id": "7",
             "title": "Test Suite Report",
-            "url": "/in-app-tutorials/getting-started/mobile/mobile-test-suite-report.md"
+            "url": "/in-app-tutorials/getting-started/shared-tutorials/test-suite-report.md"
         }
     ],
     desktop: [
@@ -124,13 +124,13 @@
         },
         {
             "id": "3",
-            "title": "Run your test and view execution log",
+            "title": "Run your test case and view execution log",
             "url": "/in-app-tutorials/getting-started/desktop/windows-run-test-case.md"
         },
         {
             "id": "4",
             "title": "Plan your test by using Test Suite",
-            "url": "/in-app-tutorials/getting-started/desktop/windows-plan-test-suite.md"
+            "url": "/in-app-tutorials/getting-started/shared-tutorials/plan-test-suite.md"
         },
         {
             "id": "5",
@@ -140,12 +140,12 @@
         {
             "id": "6",
             "title": "View execution log",
-            "url": "/in-app-tutorials/getting-started/desktop/windows-view-execution-log.md"
+            "url": "/in-app-tutorials/getting-started/shared-tutorials/view-execution-log.md"
         },
         {
             "id": "7",
             "title": "Test Suite Report",
-            "url": "/in-app-tutorials/getting-started/desktop/windows-test-suite-report.md"
+            "url": "/in-app-tutorials/getting-started/shared-tutorials/test-suite-report.md"
         }
     ]
 }
