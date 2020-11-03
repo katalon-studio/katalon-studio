@@ -58,7 +58,7 @@
             "icon": "create.png"
         },
         {
-            "id": "4",
+            "id": "9",
             "title": "Run your test and view execution log",
             "url": "api/api-run-test-case.md",
             "icon": "run.png"
@@ -86,6 +86,12 @@
             "title": "Test Suite Report",
             "url": "api/api-test-suite-report.md",
             "icon": "report.png"
+        },
+        {
+            "id": "10",
+            "title": "Set up",
+            "url": "api/api-test-suite-report.md",
+            "icon": "setup.png"
         }
     ],
     "mobile": [
