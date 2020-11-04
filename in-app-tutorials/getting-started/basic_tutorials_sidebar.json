@@ -36,6 +36,12 @@
             "title": "Test Suite Report",
             "url": "web-ui/webui-test-suite-report.md",
             "icon": "report.png"
+        },
+        {
+            "id": "7",
+            "title": "Test Suite Report 1",
+            "url": "web-ui/webui-test-suite-report.md",
+            "icon": "report.png"
         }
     ],
     "api":[
