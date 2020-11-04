@@ -1,11 +1,15 @@
 ### Run your test case
 
 1. Open a test case
-2. Click on the arrow right next to the **Run** button and select **Android/iOS/Remote**
+2. 2. From the main Toolbar, open the drop-down list next to the **Run** button and to select a mobile device type
 
-   <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/execute-a-test-case/Screenshot%202020-11-04%20at%2013.58.44.png" width=40%>
+   <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/mobile-recorder-76/run.png" width=703> 
 
-3. Select your device among those listed devices.
+3. In the displayed dialog, select a device and click **OK**.
+
+   <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/record-mobile-utility/device.png" width=452>
+
+   Katalon Studio executes the mobile test with the recorded steps accordingly.
 
 The **Job Progress** is triggered automatically to show the progress while your test case runs.
 
