@@ -1,7 +1,7 @@
 ### Run your test case
 
 1. Open a test case
-2. 2. From the main Toolbar, open the drop-down list next to the **Run** button and to select a mobile device type
+2. From the main Toolbar, open the drop-down list next to the **Run** button and to select a mobile device type
 
    <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/mobile-recorder-76/run.png" width=703> 
 
