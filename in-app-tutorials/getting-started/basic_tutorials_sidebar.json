@@ -2,8 +2,8 @@
     "webui":[
         {
             "id": "1",
-            "title": "Create your first Test Case by recording",
-            "url": "web-ui/webui-create-test-case.md",
+            "title": "Create your first Test Case by recorder",
+            "url": "web-ui/webui-create-test-case-by-recorder.md",
             "icon": "create.png"
         },
         {
