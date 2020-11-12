@@ -4,8 +4,6 @@ Expand each section to view its details.
 
 > Tip: With API/Web Service project type, you can click on the icons on the menu bar. 
 
-You can import test requests from the following definitions or tools:
-
 <details><summary>Import RESTful requests from OpenAPI Specification 3.0</summary>
 
 > You need a Katalon Studio Enterprise license.
