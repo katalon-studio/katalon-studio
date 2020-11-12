@@ -4,7 +4,7 @@
 
 Add a test request to a test case from the oject editor by clicking on the _plus_ icon to add to a test case .
 
-<img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/using-web-services-in-a-test-case-58/Screen-Shot-2018-09-20-at-5.06.42-PM.png" width=100%>
+<img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/using-web-services-in-a-test-case-58/Screen-Shot-2018-09-20-at-5.06.42-PM.png" width=50%>
 
 ### In Test Case editor's Manual View
 
