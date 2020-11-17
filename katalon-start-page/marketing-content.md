@@ -1,3 +1,4 @@
-Automation Testing Presence & Future | Test Landscape Report 2020
+### [**Proof of Concept in Automation Testing | How to Implement It Successfully**](https://www.katalon.com/resources-center/blog/proof-of-concept-test-automation/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6WR20_fHN9Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/10/Proof-of-Concept-for-Test-Automation.png" width=100%>
