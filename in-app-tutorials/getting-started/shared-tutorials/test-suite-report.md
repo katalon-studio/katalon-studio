@@ -10,13 +10,13 @@ In **Test Suite** editor, click on the **Result** tab to view its details:
 
 In the **Result** view, select a test case and click **Show Test Case Details** on the top right corner: 
 
-<img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/test-suite-report/show-tc-details.png" width=100%>
+<img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/test-suite-report/show-tc-details.png" width=50%>
 
 ### Export reports to other formats 
 
 You can export a test suites' report into other formats such as **HTML**, **CSV**, **PDF** and **JUnit** manually.
 
-<img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/test-suite-report/export-report.png" width=100%>
+<img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/test-suite-report/export-report.png" width=50%>
 
 To generate reports auutomatically, go to **Project > Settings > Plugins > Report**, select the report formats and click **OK**
 
