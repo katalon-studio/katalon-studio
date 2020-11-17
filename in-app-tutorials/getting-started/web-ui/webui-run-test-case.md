@@ -5,4 +5,4 @@
 
    <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/execute-a-test-case/Screenshot%202020-11-04%20at%2013.58.44.png" width=40%>
 
-The **Job Progress** is triggered automatically to show the progress while your test case runs.
+   The **Job Progress** is triggered automatically to show the progress while your test case runs.
