@@ -1,4 +1,4 @@
-### Run your test case
+## Run your test case
 
 1. Open a test case
 2. From the main Toolbar, open the drop-down list next to the **Run** button and to select a mobile device type
@@ -11,6 +11,6 @@
 
    Katalon Studio executes the mobile test with the recorded steps accordingly.
 
-The **Job Progress** is triggered automatically to show the progress while your test case runs.
+   The **Job Progress** is triggered automatically to show the progress while your test case runs.
 
-> Click [here](https://docs.katalon.com/katalon-studio/docs/execute-a-test-case-or-a-test-suite.html#execute-a-test-case) for a detailed document.
+   > Click [here](https://docs.katalon.com/katalon-studio/docs/execute-a-test-case-or-a-test-suite.html#execute-a-test-case) for a detailed document.

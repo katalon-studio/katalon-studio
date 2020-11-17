@@ -1,4 +1,4 @@
-### Run your test suite
+## Run your test suite
 
 1. Open a test suite
 2. Click on the arrow right next to the **Run** button and select one of the supported browsers: Chrome/Firefox/IE/Safari/Edge Chromium.

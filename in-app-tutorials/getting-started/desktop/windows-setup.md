@@ -1,5 +1,5 @@
 
-### Set up
+## Set up
 
 1. Enable **Developer Mode** on  a local Windows 10 machine. Refer to the [official guide](https://docs.microsoft.com/en-us/windows/uwp/get-started/enable-your-device-for-development) from Microsoft for instructions.
 

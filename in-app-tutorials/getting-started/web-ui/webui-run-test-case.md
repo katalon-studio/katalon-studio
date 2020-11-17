@@ -1,4 +1,4 @@
-### Run your test case
+## Run your test case
 
 1. Open a test case
 2. Click on the arrow right next to the **Run** button and select one of the supported browsers: Chrome/Firefox/IE/Safari/Edge Chromium.

@@ -1,5 +1,5 @@
 
-### Create your first test case
+## Create your first test case
 
 1. Click on this icon ![](https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/record-web-utility/Screen-Shot-2018-06-27-at-09.41.37.png) to open Katalon Web Utility.
 

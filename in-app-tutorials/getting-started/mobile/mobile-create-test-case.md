@@ -1,5 +1,5 @@
 
-### Create your first test case
+## Create your first test case
 
 1. From the main Toolbar, click on the **Record Mobile** icon and select your device type, for instance, **Android Devices**
 
