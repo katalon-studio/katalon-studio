@@ -1,4 +1,28 @@
 [
+    {
+        "os": "macOS (app)",
+        "version": "7.8.0",
+        "filename": "Katalon.Studio.app.zip",
+        "url": "https://download.katalon.com/7.8.0/Katalon_Studio_Engine_MacOS-7.8.0.tar.gz"
+    },
+    {
+        "os": "Linux",
+        "version": "7.8.0",
+        "filename": "Katalon_Studio_Linux_64-7.8.0.tar.gz",
+        "url": "https://download.katalon.com/7.8.0/Katalon_Studio_Engine_Linux_64-7.8.0.tar.gz"
+    },
+    {
+        "os": "Windows 32",
+        "version": "7.8.0",
+        "filename": "Katalon_Studio_Windows_32-7.8.0.zip",
+        "url": "https://download.katalon.com/7.8.0/Katalon_Studio_Engine_Windows_32-7.8.0.zip"
+    },
+    {
+        "os": "Windows 64",
+        "version": "7.8.0",
+        "filename": "Katalon_Studio_Windows_64-7.8.0.zip",
+        "url": "https://download.katalon.com/7.8.0/Katalon_Studio_Engine_Windows_64-7.8.0.zip"
+    },
      {
         "os": "macOS (app)",
         "version": "7.7.2",
