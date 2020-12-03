@@ -1,7 +1,6 @@
-Katalon Studio 7.8 has been released with new capabilities aimed at efficient debugging and maintaining test scripts and enhanced integrations with qTest, Kobiton, Jira, or Katalon TestOps. Read about [what's new in this release](https://docs.katalon.com/katalon-studio/new/what-is-new.html).
+### Curious as to [what's new in release 7.8](https://docs.katalon.com/katalon-studio/new/what-is-new.html)?
 
-* Support Time Capsule for optimizing fixing broken Web Test Objects. [Learn more](https://docs.katalon.com/katalon-studio/docs/time-capsule.html)
-* [Windows Testing] Support coordinates-based recording with [Click Element Offset](https://docs.katalon.com/katalon-studio/docs/windows-kw-click-element-offset.html) and [Right-click Element Offset](https://docs.katalon.com/katalon-studio/docs/windows-kw-rightclick-element-offset.html) keywords on both [Windows Recorder](https://docs.katalon.com/katalon-studio/docs/windows-recorder-tutorials.html) and [Native Windows Recorder](https://docs.katalon.com/katalon-studio/docs/windows-native-record.html).
-* [Katalon Studio Enterprise] Support browser-based video recording. [Learn more](https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-video-recorder)
-* Provide Checksum for each Katalon Studio package named `all-packages.sha256`
-and Open source libraries's license scanning report in HTML named `KatalonStudio-openSourceReport.html` (Go to [our GitHub Repository](https://github.com/katalon-studio/katalon-studio/releases), download those files in each build's Assets).
+* Support **Time Capsule** for optimizing fixing broken Web Test Objects. [Learn more](https://docs.katalon.com/katalon-studio/docs/time-capsule.html)
+* [Windows Testing] Support **coordinates-based recording** with [Click Element Offset](https://docs.katalon.com/katalon-studio/docs/windows-kw-click-element-offset.html) and [Right-click Element Offset](https://docs.katalon.com/katalon-studio/docs/windows-kw-rightclick-element-offset.html) keywords on both [Windows Recorder](https://docs.katalon.com/katalon-studio/docs/windows-recorder-tutorials.html) and [Native Windows Recorder](https://docs.katalon.com/katalon-studio/docs/windows-native-record.html).
+* [Katalon Studio Enterprise] Support **browser-based video recording**. [Learn more](https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-video-recorder)
+
