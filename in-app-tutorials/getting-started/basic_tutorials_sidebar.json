@@ -35,6 +35,12 @@
             "title": "Test Suite Report",
             "url": "shared-tutorials/test-suite-report.md",
             "icon": "report.png"
+        },
+        {
+            "id": "7",
+            "title": "What's next?",
+            "url": "shared-tutorials/what-is-next.md",
+            "icon": "view.png"
         }
     ],
     "api":[
@@ -85,6 +91,12 @@
             "title": "Test Suite Report",
             "url": "shared-tutorials/test-suite-report.md",
             "icon": "report.png"
+        },
+        {
+            "id": "9",
+            "title": "What's next?",
+            "url": "shared-tutorials/what-is-next.md",
+            "icon": "view.png"
         }
     ],
     "mobile": [
@@ -129,6 +141,12 @@
             "title": "Test Suite Report",
             "url": "shared-tutorials/test-suite-report.md",
             "icon": "report.png"
+        },
+        {
+            "id": "8",
+            "title": "What's next?",
+            "url": "shared-tutorials/what-is-next.md",
+            "icon": "view.png"
         }
     ],
     "desktop": [
@@ -173,6 +191,12 @@
             "title": "Test Suite Report",
             "url": "shared-tutorials/test-suite-report.md",
             "icon": "report.png"
+        },
+        {
+            "id": "8",
+            "title": "What's next?",
+            "url": "shared-tutorials/what-is-next.md",
+            "icon": "view.png"
         }
     ]
 }
