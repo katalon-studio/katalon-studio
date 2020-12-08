@@ -8,7 +8,7 @@
         },
         {
             "id": "2",
-            "title": "Run your test and view execution log",
+            "title": "Run test and investigate execution result",
             "url": "web-ui/webui-run-test-case.md",
             "icon": "run.png"
         },
@@ -58,7 +58,7 @@
         },
         {
             "id": "9",
-            "title": "Run your test and view execution log",
+            "title": "Run test and investigate execution result",
             "url": "api/api-run-test-case.md",
             "icon": "run.png"
         },
@@ -102,7 +102,7 @@
         },
         {
             "id": "3",
-            "title": "Run your test and view execution log",
+            "title": "Run test and investigate execution result",
             "url": "mobile/mobile-run-test-case.md",
             "icon": "run.png"
         },
@@ -146,7 +146,7 @@
         },
         {
             "id": "3",
-            "title": "Run your test and view execution log",
+            "title": "Run test and investigate execution result",
             "url": "desktop/windows-run-test-case.md",
             "icon": "run.png"
         },
