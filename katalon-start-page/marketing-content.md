@@ -1,4 +1,3 @@
-### [Proof of Concept in Automation Testing | How to Implement It Successfully](https://www.katalon.com/resources-center/blog/proof-of-concept-test-automation/)
+### [A Farewell To 2020](https://www.katalon.com/2020-recap/)
 
-
-<img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/10/Proof-of-Concept-for-Test-Automation.png" width=100%>
+Amid a challenging 2020, the Katalon community has achieved many notable marks together. Let’s end this year with some beautiful moments, all possible because of you!
