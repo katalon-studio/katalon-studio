@@ -1,3 +1,3 @@
-### [Curious as to what's new in release 7.8?](https://docs.katalon.com/katalon-studio/new/what-is-new.html)
+### [[Webinar] Elevate Your Test Troubleshooting with Katalon Studio 7.8](https://youtu.be/_gGkDuyFYCY)
 
-Katalon Studio 7.8 has been released with new capabilities aimed at efficient debugging and maintaining test scripts and enhanced integrations with qTest, Kobiton, Jira, or Katalon TestOps. 
+We are happy to announce the release of Katalon 7.8 - with features focusing on smart troubleshooting available for download. 
