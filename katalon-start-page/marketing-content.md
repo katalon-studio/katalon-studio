@@ -1,3 +1,15 @@
-### [A Farewell To 2020](https://www.katalon.com/2020-recap/)
+### [Effective Orchestration of Test Automation and DevOps – Live Demo](https://www.katalon.com/webinars/automation-devops-orchestration/)
 
-Amid a challenging 2020, the Katalon community has achieved many notable marks together. Let’s end this year with some beautiful moments, all possible because of you!
+Katalon introduces the brand new **Katalon TestOps**.
+
+In this webinar, our expert will walk you through:
+
+  - Introduction and Benefits of QA Orchestration.
+  - Test Run Scheduling with Smart Prioritization in TestOps.
+  - Integration with popular test automation tools i.e. Katalon Studio.
+  
+Who should attend?
+
+  - Automation engineers who want to maximize their testing productivity.
+  - Project managers and team leaders who want to better understand their project quality.
+  - Those who are eager to discover the whole Katalon solutions.
