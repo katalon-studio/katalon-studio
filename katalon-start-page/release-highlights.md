@@ -1,3 +1,3 @@
-### [Curious about what's new in v7.9?](https://docs.katalon.com/katalon-studio/new/what-is-new.html)
+### [Katalon TestOps — Test Orchestration and Quality Analytics Platform?](https://www.katalon.com/resources-center/blog/test-orchestration-quality-analytics/)
 
-For macOS users with previous versions, you will not be able to use **Check for updates...** to upgrade to v7.9+ due to the core engine upgrade (but you can use **Check for updates...** in v7.9 and later). Please download the latest version from [our website](https://www.katalon.com/download/). To reuse Preferences from previous versions, refer to [this guide](https://docs.katalon.com/katalon-studio/docs/katalon-studio-preferences.html#import-preferences).
+The *Quality at Speed* movement – or delivering high-quality products in a short period – has expanded beyond the software industry. This new movement pushes QA teams to continuously reinvent their software development cycle with advancing technological practices. Among those new game-changing strategies, many have chosen to focus on test orchestration and quality analytics, which are the focal point of the Katalon TestOps.
