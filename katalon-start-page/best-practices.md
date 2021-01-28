@@ -1,3 +1,5 @@
-### [Webinar Recap: Scale your Software Development with Automation Testing and CI/CD](https://www.katalon.com/resources-center/blog/software-development-test-automation-cicd/)
+### [Katalon TestOps — Test Orchestration and Quality Analytics Platform](https://www.katalon.com/resources-center/blog/test-orchestration-quality-analytics/)
 
-With the rise in demands for “*Quality at Speed*”, applying the CI/CD best practices is among the sole strategies to win today’s software product marketplace.
+<img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2021/01/Katalon-TestOps-%E2%80%94-Test-Orchestration-and-Quality-Analytics-platform.png"> 
+
+The “Quality at Speed” movement – or delivering high-quality products in a short period – has expanded beyond the software industry: it appears in the standard playbook of companies in health care, finance, etc. This new movement pushes QA teams to continuously reinvent their software development cycle with advancing technological practices. Among those new game-changing strategies, many have chosen to focus on test orchestration and quality analytics, which are the focal point of the Katalon TestOps.
