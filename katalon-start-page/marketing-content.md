@@ -1,8 +1,5 @@
-### [Orchestrate Tests & DevOps efficiently](https://www.katalon.com/testops/)
+### [[Webinar] Effective Orchestration of Test Automation and DevOps](https://www.youtube.com/watch?v=7yDpDXGYmaI&feature=youtu.be)
 
-Katalon introduces the brand new **Katalon TestOps**. In this webinar, our expert will walk you through:
+At [Katalon](https://www.katalon.com), we understand the need to keep up with latest testing trends.
 
-  - Introduction and Benefits of QA Orchestration.
-  - Test Run Scheduling with Smart Prioritization in TestOps.
-  - Integration with popular test automation tools i.e. Katalon Studio.
-  
+Considering that, we would like to introduce the **test orchestration** and the **quality analytics**, the new game-changing strategies among top enterprises in the Quality At Speed era. 
