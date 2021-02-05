@@ -1,5 +1,9 @@
-### [[Webinar] Effective Orchestration of Test Automation and DevOps](https://www.youtube.com/watch?v=7yDpDXGYmaI&feature=youtu.be)
+### [[Katalon TestOps] - Orchestrate Tests, Connect DevOps & Act on Insights](https://www.katalon.com/testops/)
 
-At [Katalon](https://www.katalon.com), we understand the need to keep up with latest testing trends.
+<img src="https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/pages/testops_landing_page/new_2021/banner%20img_2.pngAt">
 
-Considering that, we would like to introduce the **test orchestration** and the **quality analytics**, the new game-changing strategies among top enterprises in the Quality At Speed era. 
+What **Katalon TestOps** provides:
+
+- Orchestrate Tests & DevOps efficiently. Release faster.
+- Build quality insights into your CI/CD pipeline.
+- Seamlessly Integrate Your Ecosystem.
