@@ -1,6 +1,6 @@
 ### [[Katalon TestOps] - Orchestrate Tests, Connect DevOps & Act on Insights](https://www.katalon.com/testops/)
 
-<img src="https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/pages/testops_landing_page/new_2021/banner%20img_2.png">
+<img src="https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/pages/testops_landing_page/new_2021/banner%20img_2.png" width=80%>
 
 What **Katalon TestOps** provides:
 
