@@ -1,7 +1,12 @@
-### [Container Orchestration | Definition, Benefits & How It Works](https://www.katalon.com/resources-center/blog/container-orchestration/)
+### [Ultimate Guide to Apply Field Testing for Mobile Application](https://www.katalon.com/resources-center/blog/field-testing-mobile-app/)
 
-At [Katalon](https://www.katalon.com), we understand the need to keep up with latest testing trends.	<img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2021/02/Container-orchestration-101.png">
+<img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/12/Field-Testing-for-Mobile-Applications.png">
 
-Considering that, we would like to introduce the **test orchestration** and the **quality analytics**, the new game-changing strategies among top enterprises in the Quality At Speed era. 	In the 1970’s, the concept of a container-based application emerged to transform the IT world. For the first time, the software was deployed consistently and reliably regardless of the target environment’s changes (private or public cloud, personal computer, etc.).
+A field test is a significant part of any mobile application testing cycle. An application can only be verified as stable and fast when it undergoes this journey. 
 
-This article provides you with **fundamental knowledge** about container orchestration and some **available tools** for container orchestration.
+Field testing allows testers to take their devices into the real world and explore its applications as an end-user would.
+
+This article provides you with:
+- Field Testing and Its Importance.
+- When Should the Team Perform Field Testing?
+- 6 Best Practices for Field Testing.
