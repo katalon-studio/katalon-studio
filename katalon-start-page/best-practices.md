@@ -1,12 +1,11 @@
-### [Simulators vs Emulators vs Real Devices | Mobile Testing Differences](https://www.katalon.com/resources-center/blog/simulator-emulator-real-device/)
+### [Appium Tutorial | Introduction to Android and IOS Mobile Apps Testing](https://www.katalon.com/resources-center/blog/appium-tutorial-mobile-testing/)
 
-<img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/12/Which-are-the-best-mobile-testing-tools_-simulators-emulators-and-real-devices.png">
+<img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/12/Appium-Tutorial-for-Testing-Android-and-IOS-Mobile-Apps.png">
 
-Mobile testing increases in importance due to the significant role mobile applications play in our everyday lives. The testing process involves spotting bugs in a mobile application and fixing them – ranging from identifying sign-up issues, breaking in the payment process, or finding glitches in navigation before it hits the market.
+Appium has become widely used in testing mobile applications for IOS and Android due to its cross-platform ability and ease of usage. However, there is a need to set up major software and hardware components before testing an application with Appium. The components include an Appium server, JDK, Java, SDK, and more. Once all these are in place, you can efficiently test your Android and iOS apps.
 
-Among the elements necessary for a seamless testing process is the selection of the right mobile testing devices. There are 2 main types of testing devices: **real testing devices** and **virtual testing devices (emulator and simulator)**.
-
-This topic goes through:
-- What Is a Real Testing Device and a Virtual Testing Device?
-- Real Device Capabilities vs Virtual Device Capabilities.
-- When to Use: Real Testing Device or Virtual Testing Device.
+This article provides you with the following sections:
+- Introduction to Mobile Testing and Appium.
+- Prerequisites for Setting up Appium.
+- How Appium works in Android.
+- How Appium works in IOS.
