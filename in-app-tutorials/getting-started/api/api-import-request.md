@@ -14,15 +14,15 @@ To import a service definition with OpenAPI 3.0, please do as follows:
 
 * With a API/Web Service project type, click on the OpenAPI icon and select the **Import OpenAPI 3** option; or
 
-   <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/import-openapi30/icon.png" width=351>
+   <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/import-openapi30/icon.png" width=60%>
 
 * In **Tests Explorer**, right-click on any folder of **Object Repository** and select **Import > From OpenAPI 3**.
 
-   <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/import-openapi30/rightclick.png" width=541>
+   <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/import-openapi30/rightclick.png" width=70%>
 
 3. In the displayed dialog, browse your **OpenAPI 3.0** local file or enter an OpenAPI 3 URL, and click **OK**.
 
-   <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/import-openapi30/browse.png" width=454>
+   <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/import-openapi30/browse.png" width=70%>
 
 </details>
 
@@ -32,15 +32,15 @@ To import a service definition with OpenAPI 3.0, please do as follows:
 
 * With a API/Web Service project type, click on the OpenAPI icon and select the **Import OpenAPI 2 (Swagger)** option; or
 
-   <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/import-openapi30/icon.png" width=351>
+   <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/import-rest-requests-from-swagger-20/import.png" width=60%>
 
 * In **Tests Explorer**, right-click on any folder of **Object Repository** and select **Import > From OpenAPI 2 (Swagger)**.
 
-   <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/import-openapi30/rightclick.png" width=541>
+   <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/import-rest-requests-from-swagger-20/import-via-object.png" width=70%>
 
 3. In the displayed dialog, browse your **Swagger** local file or enter an OpenAPI 2 (Swagger) URL, and click **OK**.
 
-   <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/import-openapi30/browse.png" width=454>
+   <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/import-rest-requests-from-swagger-20/browse.png" width=70%>
 
 </details>
 
