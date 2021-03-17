@@ -1,11 +1,11 @@
-### [Appium Tutorial | Introduction to Android and IOS Mobile Apps Testing](https://www.katalon.com/resources-center/blog/appium-tutorial-mobile-testing/)
+### [Appium vs Selenium — Architecture, Functionality, Applications, and Everything in Between](https://www.katalon.com/resources-center/blog/appium-vs-selenium/)
 
-<img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/12/Appium-Tutorial-for-Testing-Android-and-IOS-Mobile-Apps.png">
+<img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/11/Differences-between-Selenium-and-Appium.png">
 
-Appium has become widely used in testing mobile applications for IOS and Android due to its cross-platform ability and ease of usage. However, there is a need to set up major software and hardware components before testing an application with Appium. The components include an Appium server, JDK, Java, SDK, and more. Once all these are in place, you can efficiently test your Android and iOS apps.
+The explosion of the mobile industry puts testing professionals under pressure to keep up with speed without sacrificing their mobile apps’ quality. When opting for the best-fit mobile testing solution, **Selenium** and **Appium** are the two most frequent recommendations. 
 
-This article provides you with the following sections:
-- Introduction to Mobile Testing and Appium.
-- Prerequisites for Setting up Appium.
-- How Appium works in Android.
-- How Appium works in IOS.
+This article contains the comparison of both tools, along with their key features, to make the selection process easier for you and your team. We will go through:
+- What is Selenium?
+- What is Appium?
+- Appium and Selenium Frameworks for Automation Mobile Testing.
+- The Differences between Appium, Selenium and **Katalon Studio**.
