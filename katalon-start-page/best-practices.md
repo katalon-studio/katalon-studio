@@ -8,4 +8,4 @@ This article contains the comparison of both tools, along with their key feature
 - What is Selenium?
 - What is Appium?
 - Appium and Selenium Frameworks for Automation Mobile Testing.
-- The Differences between Appium, Selenium and **Katalon Studio** — Top-Choices Automation Tool.
+- The Differences between Appium, Selenium and **Katalon Studio**.
