@@ -1,6 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
@@ -14,7 +17,7 @@ about: Create a report to help us improve
 
 * Windows logs folder: <Katalon Studio folder>\config\.metadata\.log
 
-* MacOS logs folder: file:///Applications/Katalon%20Studio.app/Contents/MacOS/config/.metadata/.plugins/org.eclipse.ui.workbench/log
+* MacOS logs folder: file:///Applications/Katalon%20Studio.app/Contents/MacOS/config/.metadata/log
 
 #### Environment (for Web testing):
 
