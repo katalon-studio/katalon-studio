@@ -1,11 +1,10 @@
-### [Appium vs Selenium — Architecture, Functionality, Applications, and Everything in Between](https://www.katalon.com/resources-center/blog/appium-vs-selenium/)
+### [Automation Testing 101: What, Why and How?](https://www.katalon.com/resources-center/blog/what-is-automation-testing/)
 
-<img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/11/Differences-between-Selenium-and-Appium.png">
+<img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/08/1.-Automation-Testing-101.png">
 
-The explosion of the mobile industry puts testing professionals under pressure to keep up with speed without sacrificing their mobile apps’ quality. When opting for the best-fit mobile testing solution, **Selenium** and **Appium** are the two most frequent recommendations. 
+This article provides you with an introduction to automation testing, the benefits of automation testing, and how to start your journey with it through the following sections:
 
-This article contains the comparison of both tools, along with their key features, to make the selection process easier for you and your team. We will go through:
-- What is Selenium?
-- What is Appium?
-- Appium and Selenium Frameworks for Automation Mobile Testing.
-- The Differences between Appium, Selenium and **Katalon Studio**.
+- What is automation testing?
+- Benefits of automation testing.
+- When to opt for automation testing?
+- 5 Steps to get started with automated testing.
