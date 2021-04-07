@@ -1,12 +1,13 @@
-### [Types of Automation Testing: A Beginner’s Guide](https://www.katalon.com/resources-center/blog/automation-testing-types/)
+### [Best Practices for Test Automation | 2021 Tester’s Checklist](https://www.katalon.com/resources-center/blog/test-automation-best-practices/)
 
-<img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/08/Test-Aumation-Definition_-A-Beginners-Guide.png">
+<img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/09/Test-Automation-Best-Practice.png">
 
-There are two types of testing techniques in software testing — **manual** and **automation**. The testing process can be highly mentally-taxing and time-consuming if performed manually. Therefore, test automation was designed to tackle this very problem.
+Although there is no denying that manual testing will always stay relevant, there is an increasing demand for automated testing. Test automation brings on many benefits for companies and teams: time efficiency, extensive coverage. But how to best develop an automated testing strategy? We will show you some best practices in all 7 stages of your test automation strategy to maximize your experiences.
 
-Many automated testing types have been introduced, and robust testing tools have allowed testers to be more hands-off by simplifying writing and replaying test suites, which frees up valuable resources and enhances business productivity. This article will cover the most popular types of test automation any tester should know to be well-prepared for their testing journey by going through the following sections.
-
-- Types of Test Automation.
-- Automation Test Frameworks.
-- Tools to Use for Your Automated Tests.
-- 5 Steps to get started with automated testing.
+1. Establish a test automation plan.
+2. Choose a test automation approach.
+3. Acquire a testing tool.
+4. Set up an automation environment.
+5. Design test automation.
+6. Execute test automation
+7. Result, Analysis, and Reusability.
