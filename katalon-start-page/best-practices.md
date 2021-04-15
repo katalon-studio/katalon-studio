@@ -1,13 +1,12 @@
-### [Best Practices for Test Automation | 2021 Tester’s Checklist](https://www.katalon.com/resources-center/blog/test-automation-best-practices/)
+### [A Complete Guide to Successfully Win a Mobile Testing Job](https://www.katalon.com/resources-center/blog/mobile-testing-job/)
 
-<img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/09/Test-Automation-Best-Practice.png">
+<img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/11/Article_-How-To-Get-A-Mobile-Testing-Job-Fast-A-Step-By-Step-Guide.png">
 
-Although there is no denying that manual testing will always stay relevant, there is an increasing demand for automated testing. Test automation brings on many benefits for companies and teams: time efficiency, extensive coverage. But how to best develop an automated testing strategy? We will show you some best practices in all 7 stages of your test automation strategy to maximize your experiences.
+According to Grandview Research, the **mobile application** industry is rapidly growing on a day-to-day basis and expected to reach USD 170.52 billion in 2020. Along with this growth, **mobile testers** have become one of the most demanded talents. They are needed to meet end-users different mobile application demands, and companies are now willing to provide attractive opportunities with competitive salaries to attract the best talents. 
 
-1. Establish a test automation plan.
-2. Choose a test automation approach.
-3. Acquire a testing tool.
-4. Set up an automation environment.
-5. Design test automation.
-6. Execute test automation
-7. Result, Analysis, and Reusability.
+As a tester looking to venture into the mobile testing professional role, this article helps you understand all you need to know **how to excel as a tester**. 
+
+* Establish a test automation plan.
+* 5 Must-have Requirements for Every Mobile Tester.
+* Take A Step Forward And Ace Your Mobile Testing Career.
+* Get Your Awesome Mobile Testing Job Right Now.
