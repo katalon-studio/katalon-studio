@@ -1,10 +1,5 @@
 [
     {
-        "location": "https://download.katalon.com/7.9.1/Katalon_Studio_Windows_32-7.9.1.zip",
-        "file": "win_32",
-        "type": "kse"
-    },
-    {
         "location": "https://download.katalon.com/7.9.1/Katalon_Studio_Windows_64-7.9.1.zip",
         "file": "win_64",
         "type": "kse"
@@ -18,11 +13,6 @@
         "location": "https://download.katalon.com/7.9.1/Katalon_Studio_Linux_64-7.9.1.tar.gz",
         "file": "linux_64",
         "type": "kse"
-    },
-    {
-        "location": "https://download.katalon.com/7.9.1/Katalon_Studio_Engine_Windows_32-7.9.1.zip",
-        "file": "win_32",
-        "type": "re"
     },
     {
         "location": "https://download.katalon.com/7.9.1/Katalon_Studio_Engine_Windows_64-7.9.1.zip",
