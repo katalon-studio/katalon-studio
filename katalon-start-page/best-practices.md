@@ -1,3 +1,13 @@
-### [[Odyssey Conference 2021] Improving Mobile Quality with Shift-Right Testing](https://www.youtube.com/watch?v=-91HI9gnj2E)
+### [Proof of Concept in Automation Testing | How to Implement It Successfully](https://www.katalon.com/resources-center/blog/proof-of-concept-test-automation/)
 
-Join in with **Coty Rosenblath - Chief Technology Officer** at Katalon Inc to learn **tips in achieving optimal product stability and performance** with insights from risk mitigation in larger production levels to more effective cross-team collaboration in mobile shift-right testing.
+<img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/10/Proof-of-Concept-for-Test-Automation.png">
+
+A **Proof of Concept** (POC) in Automation testing deserves a thorough **preparation and implementation** to verify the automation venture. Once it is done right, the QA team can leverage valuable insights to have timely adjustments for the application of automation testing.
+
+Curious how to perform it? Have a look at the following sections:
+
+1. What is a Proof of Concept in Automation Testing?
+2. Why is a Proof of Concept Necessary in Automation Testing?
+3. How to Implement a Proof of Concept in Automation Testing?
+4. Evaluate the Results of an Automation Testing POC.
+5. Conduct a Pilot Project.
