@@ -1,14 +1,8 @@
 [
     {
-        "title": "A Universal Approach for Building a Successful Automation Testing Framework",
-        "content": "<iframe width='560' height='315' src='https://www.youtube.com/embed/17SioBK76eg' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
-        "startDate": "20-12-2020",
-        "endDate": "22-12-2020"
-    },
-    {
-        "title": "Learn more about our products?",
-        "content": "https://www.katalon.com/webinars/katalon-studio-7-8-demo/",
-        "startDate": "01-01-2021",
-        "endDate": "02-01-2021"
+        "title": "[White Paper] Continuous Testing Navigator for 2021",
+        "content": "https://www.katalon.com/2021-continuous-testing-navigator/",
+        "startDate": "26-05-2021",
+        "endDate": "05-06-2021"
     }
 ]
