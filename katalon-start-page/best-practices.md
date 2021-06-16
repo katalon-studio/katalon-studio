@@ -1,13 +1,9 @@
-### [Historical Test Report Portal — How Developers Accelerate the Testing Process](https://www.katalon.com/resources-center/blog/historical-data-unit-test/)
+### [Parallel Testing vs. Traditional Testing | All You Need To Know](https://www.katalon.com/resources-center/blog/parallel-vs-traditional-testing-devops/)
 
-  <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2021/05/Boost-Your-Projects-Testing-Process-with-Historical-Test-Report-Portal.png">
+  <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2021/06/Parallel-vs.-Traditional-Testing1.png">
 
-The need to achieve quality at speed has become more prominent than ever. While manually collecting and inputting data with traditional methods could still be considered an option, the resulting latency, false judgments, and wrong decisions could navigate your team down an endless search of an appropriate solution.
+This article discusses traditional and parallel testing methodologies, compares their main differences, and offers best practice tips to improve your modern test automation pipelines via following topics:
 
-It’s about time you and your team give **Katalon TestOps** a go!
-
-In this article:
-
-* The Value of Software Testing Historical Data.
-* Katalon TestOps | Build Quality Insights into the CI/CD Pipeline.
-* How Developers can Accelerate Testing Process with Katalon TestOps.
+* A Brief Recap of Testing Frameworks.
+* What is Parallel Testing and Its Benefits?
+* Parallel Testing with **TestOps** – Your Weapon To Faster Releases
