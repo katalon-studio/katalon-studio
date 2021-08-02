@@ -1,9 +1,9 @@
-### [Parallel Testing vs. Traditional Testing | All You Need To Know](https://www.katalon.com/resources-center/blog/parallel-vs-traditional-testing-devops/)
+### [Announcing Katalon TestOps – Streamlining Test Automation & DevOps for Businesses](https://www.katalon.com/resources-center/blog/testops-streamline-test-automation-devops/)
 
-  <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2021/06/Parallel-vs.-Traditional-Testing1.png">
+  <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2021/07/Announcing-Katalon-TestOps-%E2%80%93-Streamlining-Test-Automation-DevOps-for-Businesses.png)">
 
-This article discusses traditional and parallel testing methodologies, compares their main differences, and offers best practice tips to improve your modern test automation pipelines via following topics:
+**TestOps** is releasing multiple enterprise-grade features such as auto-distributed execution, the ability to view re-run test results, and much more. Read on to learn how you can improve execution time and keep tabs on all the results.
 
-* A Brief Recap of Testing Frameworks.
-* What is Parallel Testing and Its Benefits?
-* Parallel Testing with **TestOps** – Your Weapon To Faster Releases
+* Auto-distributed Execution.
+* View Re-run Test Results.
+* Similar Error Suggestion.
