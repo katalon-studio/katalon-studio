@@ -4,8 +4,8 @@
   
 We are excited to announce the release of **Katalon Studio 8.1.0** (KS8.1.0). This release comes jam-packed with a broad set of new features as well as dozens of improvements and fixes to continue providing you with a top-notch testing experience. Read this article to learn more about what’s included in this release.
 
-* What’s New?
+**What is new?**
+
   * Improved retry failed executions immediately to spot flaky tests
-  * Less wait-time with terminate execution conditionally
+  * Less wait-time with terminating execution conditionally
   * Azure Test Plans integration
-  * Tidbits 
