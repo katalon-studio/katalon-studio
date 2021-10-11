@@ -1,13 +1,11 @@
-### [How to Build A Successful DevOps Testing Strategy for Agile Teams](https://www.katalon.com/resources-center/blog/devops-testing-strategy/?utm_source=katalon&utm_medium=ks_start_page)
+### [Automation Testing for Agile teams | How to Make it Right](https://www.katalon.com/resources-center/automation-testing-agile-team/?utm_source=katalon&utm_medium=ks_start_page)
 
-  <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2021/08/How-To-Build-A-DevOps-Testing-Strategy-for-Teams_Banner1.png">
+  <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/10/How-to-Implement-Automation-Testing-in-Agile-teams.png">
 
-As the definition suggests, speed and reliability are the two main objectives in a DevOps testing strategy.
-
-The traditional independent-working mindset would be removed by tightening the Dev (development) and Ops (operations) functions together. The process, in turn, makes tight delivery schedules for processes at scale less of a nightmare.
+The world is witnessing the rise of Agile methodologies in software development. Test automation was not born to serve Agile teams, however, it makes Agile testing- a crucial part of the Agile concept- achievable. This article shows all essentials for the implementation of automation testing for Agile teams.
 
 In this article:
 
-* Testing in DevOps
-* Customizing A DevOps Testing Strategy for Your Team
-* **Katalon Studio** and **TestOps** – Key Ingredients to Any Testing Strategy in DevOps’ Fast Lane
+* Software Testing in Agile Teams
+* The Importance of Test Automation for Agile Teams
+* How to Implement Test Automation Effectively in Agile Teams
