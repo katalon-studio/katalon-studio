@@ -1,12 +1,12 @@
-### [DevOps Orchestration | Your Next Investment after Automation](https://www.katalon.com/resources-center/blog/devops-orchestration-investment/)
+### [Mobile Cloud Testing 101 | Introduction and Implementation](https://www.katalon.com/resources-center/blog/mobile-cloud-testing/?utm_source=katalon&utm_medium=ks_start_page)
 
-  <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2021/08/DevOps-orchestration-_-Your-next-investment-after-automation.png">
+  <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/10/What-is-Mobile-Cloud-Testing_Infographic.png">
 
-Knowing DevOps team struggles, we have developed an ultimate solution for you: **Katalon TestOps** – an open and comprehensive orchestration platform that gives testing and DevOps teams full visibility of their tests, resources, and environments; and orchestration tools to manage tests and quality insights.
+With 2.1 billion smartphone users and 10,000+ mobile apps released daily, the mobile application field seems lucrative yet more competitive than ever, especially in the testing landscape. 
 
-How can you step up your automation game and achieve the ideal success of digital transformation? The answer to your question lies in this article.
+To account for such demands, entering cloud mobile testing: transparency and mobility allow businesses and developers teams to optimize their mobile app testing pipeline while ensuring the application quality.
 
-* What’s Holding Back Your DevOps Teams?
-* DevOps Orchestration – Your Next Step after Automation
-* Why Invest in DevOps Orchestration?
+* What is Mobile Cloud Testing?
+* Why Mobile Cloud Testing
+* Implementation Of Mobile Cloud Testing
 * DevOps Orchestration in Practice
