@@ -1,3 +1,3 @@
-### [Highlights from v8.1.0](https://docs.katalon.com/katalon-studio/new/what-is-new.html)
+### [Highlights from v8.2.0](https://docs.katalon.com/katalon-studio/new/all-versions.html)
 
-Improved Retry Failed Test Immediately with consolidated report, and introduced stopping execution based on failures threshold.
+Supported Smart Wait on Edge Chromium, and enhanced performance of Katalon Studio and Katalon Runtime Engine.
