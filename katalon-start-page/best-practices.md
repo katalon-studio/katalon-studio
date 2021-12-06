@@ -1,12 +1,11 @@
-### [Automation Testing Execution and Report: Best Practices for Beginners](https://www.katalon.com/resources-center/blog/automation-test-execution-report/?utm_source=katalon&utm_medium=ks_start_page)
+### [A Complete Guide to Choose Test Cases for Automation](https://www.katalon.com/resources-center/blog/choose-automation-test-cases/?utm_source=katalon&utm_medium=ks_start_page)
 
-  <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/09/Execution-and-Reporting-in-Test-Automation-.png">
+  <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/10/Complete-Guide-to-Choose-Test-Case-for-Automation.png">
 
-Having a comprehensive understanding of automation execution and test reports will allow you to take essential steps to improve your quality and effectiveness.
+According to the World Quality Report in 2019, 24% of teams encounter obstacles prohibiting them from deciding on the right test scenario. This article will detail how to choose test cases for automation and maximize your testing journey.
 
-In this article:
-
-* Automation Testing Introduction
-* 4 Steps to Start Automation Testing from Scratch
-* Automation Testing Execution For Beginners
-* **Katalon Studio & Katalon TestOps**: Best Combination for Executing Test & Reporting
+* Test Cases and Their Importance
+* Identify Test Case for Automation
+* Test Case to Automate
+* Test Case to not Automate
+* Measurement for Automation Evaluation
