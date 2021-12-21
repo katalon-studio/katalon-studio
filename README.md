@@ -13,3 +13,9 @@ The latest official release can be downloaded from Katalon [website](https://www
 * Request a new feature on [GitHub](CONTRIBUTING.md).
 * Vote for [Popular Feature Requests](https://github.com/katalon-analytics/katalon-analytics/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc).
 * File a bug in [GitHub Issues](https://github.com/katalon-analytics/katalon-analytics/issues).
+
+# Katalon Recorder
+
+Katalon Recorder is a free and lightweight tool to kickstart test automation from zero without sacrificing the future. It helps you gain confidence in your release right away by allowing you to create and execute a lot of tests quickly, easily and robustly. Later on, it helps you optimize testing activities with reusable test artifacts and the ability to categorize and execute tests flexibly. Down the road, it helps you scale without losing investment by providing easy migration paths to Katalon Studio and popular Selenium WebDriver frameworks + languages.
+
+The latest release can be downloaded from Katalon [website](https://www.katalon.com/katalon-recorder-ide/). 
