@@ -1,11 +1,11 @@
-### [Top 30 Mobile Testing Interview Questions and Answers | Updated 2021](https://www.katalon.com/resources-center/blog/mobile-testing-interview-questions/?utm_source=katalon&utm_medium=ks_start_page)
+### [The State of Quality Report 2022](https://www.katalon.com/state-quality-2022/?utm_source=in_app&utm_medium=startpage&utm_campaign=quality_report_2022)
 
-  <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/10/Top-30-Mobile-Testing-Interview-Questions.png">
+  <img src="https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/pages/the_state_of_software_quality/12_2021/img-report-2.svg">
   
-For those preparing to face mobile testing interview questions when applying for a QA job, this list of contents below will set the stage to get you in the groove.
+Download this report to learn about:
 
-In this article:
-* Definition, Types & Functions of Mobile Testing
-* Mobile Testing Planning and Strategy
-* Performing Mobile Testing
-* Mobile Testing Frameworks and Tools
+* The landscape of software quality in 2022.
+* The testing community’s characteristics, trends, and challenges.
+* How teams improve testing ROIs with smarter tool selection.
+* The role of AI and its application in QA processes.
+* Recommendations to develop more suitable QA roadmaps for your teams.
