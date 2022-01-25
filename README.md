@@ -43,6 +43,5 @@ For instructions on using Katalon Studio, visit our documentation website: [Full
 
 ### Katalon Recorder
 
-**Katalon Recorder** is a free and lightweight tool to kickstart test automation from zero without sacrificing the future. It helps you gain confidence in your release right away by allowing you to create and execute a lot of tests quickly, easily and robustly. Later on, it helps you optimize testing activities with reusable test artifacts and the ability to categorize and execute tests flexibly. Down the road, it helps you scale without losing investment by providing easy migration paths to Katalon Studio and popular Selenium WebDriver frameworks + languages.
+[Katalon Recorder](https://www.katalon.com/katalon-recorder-ide/) is a free and lightweight tool to kickstart test automation from zero without sacrificing the future. It helps you gain confidence in your release right away by allowing you to create and execute a lot of tests quickly, easily and robustly. Later on, it helps you optimize testing activities with reusable test artifacts and the ability to categorize and execute tests flexibly. Down the road, it helps you scale without losing investment by providing easy migration paths to Katalon Studio and popular Selenium WebDriver frameworks + languages.
 
-The latest release can be downloaded from Katalon [website](https://www.katalon.com/katalon-recorder-ide/). 
