@@ -15,12 +15,12 @@
 
 ## Features
 
-* Web testing.
-* Mobile testing.
-* API testing.
-* Desktop application testing.
-* Data-driven testing.
-* BDD testing.
+* Web testing
+* Mobile testing
+* API testing
+* Desktop application testing
+* Data-driven testing
+* BDD testing
 
 [See all features →](https://docs.katalon.com/katalon-studio/docs/katalon-studio-overview.html)
 
@@ -40,13 +40,14 @@ For instructions on using Katalon Studio, visit our documentation website: [Full
 * Create [Github Issues](https://github.com/katalon-studio/katalon-studio/issues) for bug reports and feature requests.
 
 ## Companion products
-### Katalon TestOps
-
-[Katalon TestOps](https://analytics.katalon.com) is a web-based application that provides dynamic perspectives and an insightful look at your automation testing data. You can leverage your automation testing data by transforming and visualizing your data; analyzing test results; seamlessly integrating with such tools as Katalon Studio and Jira; maximizing the testing capacity with remote execution.
 
 ### Katalon Runtime Engine
 
 [Katalon Runtime Engine (KRE)](https://docs.katalon.com/katalon-studio/docs/intro-RE.html) is the test execution add-on of Katalon Studio. KRE allows you to execute automation tests in CLI mode. It can be used in various scenarios, such as scheduling your tests, integrating with CI/CD system, or bundling your tests to execute in virtual containers like Docker.
+
+### Katalon TestOps
+
+[Katalon TestOps](https://analytics.katalon.com) is a web-based application that provides dynamic perspectives and an insightful look at your automation testing data. You can leverage your automation testing data by transforming and visualizing your data; analyzing test results; seamlessly integrating with such tools as Katalon Studio and Jira; maximizing the testing capacity with remote execution.
 
 ### Katalon Recorder
 
