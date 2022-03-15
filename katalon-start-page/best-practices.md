@@ -1,11 +1,10 @@
-### [A Complete Guide to Choose Test Cases for Automation](https://www.katalon.com/resources-center/blog/choose-automation-test-cases/?utm_source=katalon&utm_medium=ks_start_page)
+### [High-performance Cross-browser and Platform Testing With TestCloud](https://docs.katalon.com/katalon-studio/docs/testcloud-integration.html?utm_source=docs-katalon&utm_medium=in-app&utm_campaign=tc-trial)
 
-  <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2020/10/Complete-Guide-to-Choose-Test-Case-for-Automation.png">
+  <img src="https://github.com/katalon-studio/docs-images/blob/master/katalon-studio/docs/TC-BestPractice-Studio.png">
 
-According to the World Quality Report in 2019, 24% of teams encounter obstacles prohibiting them from deciding on the right test scenario. This article will detail how to choose test cases for automation and maximize your testing journey.
+Automate test scripts across the most common browser, OSs, or a combination of both with TestCloud - Katalon’s cloud-hosted solution for on-demand test environments. 
 
-* Test Cases and Their Importance
-* Identify Test Case for Automation
-* Test Case to Automate
-* Test Case to not Automate
-* Measurement for Automation Evaluation
+Get in TestCloud’s free trial for:
+* Instant access to different test environments
+* Freedom from IT and physical infrastructure
+* One place to generate, execute & orchestrate
