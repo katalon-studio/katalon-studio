@@ -1,11 +1,12 @@
-### [The State of Quality Report 2022](https://www.katalon.com/state-quality-2022/?utm_source=in_app&utm_medium=startpage&utm_campaign=quality_report_2022)
+### [Try TestCloud Before April 4th and Win Limited Prizes](https://katalon.com/resources-center/blog/run-tests-win-prizes?utm_source=katalon&utm_medium=in-app-studio&utm_campaign=tc-trial-gamification)
 
-  <img src="https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/pages/the_state_of_software_quality/12_2021/img-report-2.svg">
+   <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/In%20app_2x.png">
   
-Download this report to learn about:
+TestCloud’s free trial is available for all Katalon users; try it out today and grab a chance to win a $10 gift card. 
 
-* The landscape of software quality in 2022.
-* The testing community’s characteristics, trends, and challenges.
-* How teams improve testing ROIs with smarter tool selection.
-* The role of AI and its application in QA processes.
-* Recommendations to develop more suitable QA roadmaps for your teams.
+Follow these steps:
+* Log in to TestOps or Studio
+* Schedule/run tests with TestCloud
+* Share on your social media
+
+Final results will be announced on Apr 5, 2022 with prizes delivered to you shortly. 
