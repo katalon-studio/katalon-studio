@@ -1,6 +1,6 @@
 [
     {
-      "stagingUrl": "http://staging.katalon.com/",
-      "productionUrl": "https://www.katalon.com/"
+      "stagingUrl": "http://staging.katalon.com",
+      "productionUrl": "https://www.katalon.com"
     }
   ]
