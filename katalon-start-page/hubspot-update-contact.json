@@ -1,5 +1,6 @@
 [
     {
-      "apiUrl": "/wp-json/restful_api/v1/hubspot/update-contact"
+      "stagingUrl": "http://staging.katalon.com/",
+      "productionUrl": "https://www.katalon.com/"
     }
   ]
