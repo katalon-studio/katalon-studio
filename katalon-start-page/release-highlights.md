@@ -1,4 +1,4 @@
-### [Highlight from 8.3.0](https://docs.katalon.com/katalon-studio/new/version-8x.html)
+### [Highlights from 8.3.0](https://docs.katalon.com/katalon-studio/new/version-8x.html)
 
 * Introduced data-driven testing at test case and dynamic test suite levels. 
 * Introduced `toggleWifi`, `useFingerprint`, `performTouchID` mobile keywords. 
