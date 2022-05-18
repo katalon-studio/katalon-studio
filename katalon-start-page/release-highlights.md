@@ -1,6 +1,5 @@
-### [Highlights from 8.3.0](https://docs.katalon.com/katalon-studio/new/version-8x.html)
+### [Highlights from 8.3.5](https://docs.katalon.com/katalon-studio/new/version-8x.html)
 
-* Introduced data-driven testing at test case and dynamic test suite levels. 
-* Introduced `toggleWifi`, `useFingerprint`, `performTouchID` mobile keywords. 
-* Upgraded Log4j to version 2.17.1.
-
+* Introduced TestOps Private Instance integration in Katalon Studio. 
+* Introduced Katalon Compact Utility on Microsoft Edge. 
+* Added Chrome 101 and Microsoft Edge (Chromium) 101 compatibility.
