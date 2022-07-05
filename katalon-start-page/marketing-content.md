@@ -1,12 +1,12 @@
-### [Try TestCloud Before April 4th and Win Limited Prizes](https://katalon.com/resources-center/blog/run-tests-win-prizes?utm_source=katalon&utm_medium=in-app-studio&utm_campaign=tc-trial-gamification)
+### [Katalon Supports IE to Edge Migration | Testing in IE Mode](https://katalon.com/resources-center/blog/internet-explorer-end-of-life)
 
-   <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/MKT/In_app.png">
+   <img src="https://katalon.com/hs-fs/hubfs/banner1_The%20End%20of%20an%20Era.jpg?width=1876&name=banner1_The%20End%20of%20an%20Era.jpg">
   
-TestCloud’s free trial is available for all Katalon users; try it out today and grab a chance to win a $10 gift card. 
+Internet Explorer has gone end of life on June 15.
 
-Follow these steps:
-* Log in to TestOps or Studio
-* Schedule/run tests with TestCloud
-* Share on your social media
+You might have stumbled upon an Internet Explorer issue of not being able to view certain content on the browser or experiencing a page that takes forever to load.
 
-Final results will be announced on Apr 5, 2022 with prizes delivered to you shortly. 
+Well, out of the old and in with the new. 
+
+As of June 15, 2022, the Internet Explorer (IE) 11 desktop app end of support will be effective to make way for Microsoft Edge. 
+
