@@ -1,5 +1,7 @@
-### [Highlights from 8.4.0](https://docs.katalon.com/katalon-studio/new/version-8x.html)
+### [Highlights from 8.4.0 & 8.4.1](https://docs.katalon.com/katalon-studio/new/version-8x.html)
 
+* Improve Docker Image.
+* Fix high-risk security issues.
 * Introduced GraphQL Testing in Katalon Studio. 
 * Introduced NTLM and Bearer Token Authentication.
 * Introduced Schema Compliance Assertion.
