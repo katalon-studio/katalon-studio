@@ -5,19 +5,34 @@
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/8.5.0/Katalon_Studio_Windows_64-8.5.0.zip",
+        "location": "https://download.katalon.com/8.4.1/Katalon_Studio_Windows_64-8.4.1.zip",
         "file": "win_64",
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/8.5.0/Katalon%20Studio.dmg",
+        "location": "https://download.katalon.com/8.4.1/Katalon%20Studio.dmg",
         "file": "mac_64",
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/8.5.0/Katalon_Studio_Linux_64-8.5.0.tar.gz",
+        "location": "https://download.katalon.com/8.4.1/Katalon_Studio_Linux_64-8.4.1.tar.gz",
         "file": "linux_64",
         "type": "kse"
+    },
+    {
+        "location": "https://download.katalon.com/8.5.0/Katalon_Studio_PE_Windows_64-8.5.0.zip",
+        "file": "win_64",
+        "type": "kse_pe"
+    },
+    {
+        "location": "https://download.katalon.com/8.5.0/Katalon%20Studio%20PE.dmg",
+        "file": "mac_64",
+        "type": "kse_pe"
+    },
+    {
+        "location": "https://download.katalon.com/8.5.0/Katalon_Studio_PE_Linux_64-8.5.0.tar.gz",
+        "file": "linux_64",
+        "type": "kse_pe"
     },
     {
         "location": "https://download.katalon.com/7.8.2/Katalon_Studio_Engine_Windows_32-7.8.2.zip",
@@ -25,17 +40,17 @@
         "type": "re"
     },
     {
-        "location": "https://download.katalon.com/8.5.0/Katalon_Studio_Engine_Windows_64-8.5.0.zip",
+        "location": "https://download.katalon.com/8.4.1/Katalon_Studio_Engine_Windows_64-8.4.1.zip",
         "file": "win_64",
         "type": "re"
     },
     {
-        "location": "https://download.katalon.com/8.5.0/Katalon_Studio_Engine_MacOS-8.5.0.tar.gz",
+        "location": "https://download.katalon.com/8.4.1/Katalon_Studio_Engine_MacOS-8.4.1.tar.gz",
         "file": "mac_64",
         "type": "re"
     },
     {
-        "location": "https://download.katalon.com/8.5.0/Katalon_Studio_Engine_Linux_64-8.5.0.tar.gz",
+        "location": "https://download.katalon.com/8.4.1/Katalon_Studio_Engine_Linux_64-8.4.1.tar.gz",
         "file": "linux_64",
         "type": "re"
     }
