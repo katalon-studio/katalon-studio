@@ -1,4 +1,4 @@
-### [Highlights from 8.4.0 & 8.4.1](https://docs.katalon.com/katalon-studio/new/version-8x.html)
+### [Highlights from 8.5.0](https://docs.katalon.com/docs/general-information/release-notes/katalon-studio/version-8.x)
 
 * Introduced Katalon Studio - Platform Edition.
 * Enhanced Dynamic Test Suite.
