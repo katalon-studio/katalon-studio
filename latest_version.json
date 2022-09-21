@@ -4,6 +4,6 @@
     "newMechanism": true,
     "latestUpdateLocation": "https://katalon.s3.amazonaws.com/update/8.5.0",
     "releaseNotesLink": "https://docs.katalon.com/katalon-studio/new/index.html",
-    "quickRelease": false
+    "quickRelease": true
 }
 
