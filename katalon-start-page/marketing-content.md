@@ -1,3 +1,5 @@
-### [Katalon Software Quality Management Platform](https://katalon.com/resources-center/blog/letter-from-the-ceo-katalon-platform)
+### [Test Failure Analysis for Quality Engineering Teams](https://katalon.com/resources-center/blog/test-failure-analysis?utm_source=katalon&utm_medium=ks-start-page&utm_campaign=test-failure-analysis)
 
-<img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/ks-start-page/SP%20News%20(1).jpg" width=100%>
+<img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/ks-start-page/Test-Failure-Analysis.png" width=100%>
+
+
