@@ -1,4 +1,4 @@
 {
-  "stagingUrl": "https://web-api.katalon.com",
+  "stagingUrl": "https://web-api.staging.katalon.com",
   "productionUrl": "https://web-api.katalon.com"
 }
