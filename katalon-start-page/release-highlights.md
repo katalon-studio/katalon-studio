@@ -1,6 +1,7 @@
-### [Highlights from 8.5.0 & 8.5.2](https://docs.katalon.com/docs/general-information/release-notes/katalon-studio/katalon-studio-release-notes-version-8.x)
+### [Highlights from 8.5.5](https://docs.katalon.com/docs/general-information/release-notes/katalon-studio/katalon-studio-release-notes-version-8.x)
 
-* Changed the activation flow of Katalon Runtime Engine.
-* Introduced Katalon Studio - Platform Edition.
-* Enhanced Dynamic Test Suite.
-* Added Chrome 105, Microsoft Edge (Chromium) 105 compatibility.
+* Adopted new logos of Katalon.
+* Removed Applitools plugin from Katalon Studio Enterprise.
+* Fixed OSS Security Vulnerabilities.
+* Fixed Platform Edition Tech Debt and Bugs.
+* Added Chrome 107, Microsoft Edge (Chromium) 107 compatibility.
