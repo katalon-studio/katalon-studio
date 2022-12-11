@@ -1,6 +1,6 @@
 ### [State of Quality Report 2023](https://survey.survicate.com/aff0e193612048cb/?p=anonymous&utm_source=katalon&utm_medium=ks-start-page&utm_campaign=survey_distribution-2023)
 
-<img src="https://www.katalon.com/hubfs/KS-start-page/State%20of%20Quality%20report%202023/KS%20Start%20Page.png">
+<img src="https://cms-cdn.katalon.com/KS_Start_Page_d0a3bbfb8b.png">
  
 The software space is facing an unprecedentedly fast-evolving technological macrocosm driven by advanced technologies, such as IoT, big data, AI/ML, etc.
 
