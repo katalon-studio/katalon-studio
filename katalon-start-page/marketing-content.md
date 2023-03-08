@@ -1,10 +1,7 @@
-### [State of Quality Report 2023](https://survey.survicate.com/aff0e193612048cb/?p=anonymous&utm_source=katalon&utm_medium=ks-start-page&utm_campaign=survey_distribution-2023)
+### [Katalon's State of Software Quality 2023](https://katalon.com/state-quality-2023?utm_source=katalon&utm_medium=ks-start-page&utm_id=soq-2023)
 
-<img src="https://cms-cdn.katalon.com/KS_Start_Page_d0a3bbfb8b.png?updated_at=2022-12-09T04:59:49.797Z">
+<https://cms-cdn.katalon.com/Katalon_State_of_Software_Quality_2023_0da6b56e4b.png>
 
-The software space is facing an unprecedentedly fast-evolving technological macrocosm driven by advanced technologies, such as IoT, big data, AI/ML, etc.
+Discover software quality insights from 3,000+ QA teams. 
 
-Katalon’s State of Software Quality is an annual report that updates quality teams with the latest industry innovations. This year, we partnered up with Cigniti and Deloitte to capture what’s trending in the field of quality engineering. 
-
-Share your unique testing experience in our survey to help us create a comprehensive research study and drive the state of quality assurance forward.
-
+Topics include: top QA techniques & trends, test automation ROI boosts of 20%+, and the future of testing (including AI and autonomous capabilities).
