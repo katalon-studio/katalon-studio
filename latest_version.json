@@ -1,9 +1,9 @@
 
 {
-    "latestVersion": "8.5.5",
+    "latestVersion": "8.6.0",
     "newMechanism": true,
-    "latestUpdateLocation": "https://katalon.s3.amazonaws.com/update/8.5.5",
-    "latestPlatformUpdateLocation": "https://katalon.s3.amazonaws.com/update/8.5.5/platform-edition",
+    "latestUpdateLocation": "https://katalon.s3.amazonaws.com/update/8.6.0",
+    "latestPlatformUpdateLocation": "https://katalon.s3.amazonaws.com/update/8.6.0",
     "releaseNotesLink": "https://docs.katalon.com/katalon-studio/new/index.html",
     "quickRelease": true
 }
