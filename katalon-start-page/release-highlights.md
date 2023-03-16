@@ -1,5 +1,7 @@
-### [Highlights from 8.5.5](https://docs.katalon.com/docs/general-information/release-notes/katalon-studio/katalon-studio-release-notes-version-8.x)
+### [Highlights from 8.6.0](https://docs.katalon.com/docs/general-information/release-notes/katalon-studio/katalon-studio-release-notes-version-8.x)
 
-* Added Chrome 107 and Edge 107 compatibility.
-* TestRail password is now encrypted.
-* Added the option to automatically generate HTML reports for test suite collections. See [Automatically generate reports](https://docs.katalon.com/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-studio/view-test-suite-and-test-suite-collection-reports-in-katalon-studio#id_8).
+* Enhanced the mechanism in Record and Spy to better identify duplicated objects.
+* Supported recording multi-level Shadow DOM and locating them during runtime.
+* Added the option to execute test suites and test suite collections on TestCloud mobile browsers.
+* Added Chrome 110, Edge 110, and Gecko 0.3.2 (Firefox 110) compatibilities.
+* Improved Katalon Studio responsiveness and performance.
