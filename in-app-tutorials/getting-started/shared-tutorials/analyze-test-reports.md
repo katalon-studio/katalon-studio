@@ -1,15 +1,16 @@
 ## Analyze test reports
 
-In the **Tests Explorer** sidebar, click **TestOps** and choose **Test Runs**.
+1. Go to Project > Settings > Katalon Platform. Make sure Katalon Platform integration and automatically upload reports options are enabled.
 
-<img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/in-app-tutorials/shared-images/ks-open-test-runs-list.png" width=50%>
+    <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/in-app-tutorials/shared-images/ks-upload-reports-enabled.png" width=350>
 
-You can view a summary list of the test runs. 
+   After execution, your test suite reports are automatically uploaded to Platform.
 
-<img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/in-app-tutorials/shared-images/ks-view-test-runs.png" width=100%>
+2. Go to your Project Dashboard on [Katalon Platform](https://testops.katalon.io). 
 
-You can also view advanced reports of the test runs in Katalon Platform.
-* To view the advanced report of a test case, click on the test run ID. 
-* To view advanced reports of all test runs, click on **View all test runs**. 
+    <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/in-app-tutorials/shared-images/kt-dashboard.png" width=350>
+    
+    Here you can access the advanced reports and analytics of your test execution.
 
-> [Click here for a detailed tutorial](https://docs.katalon.com/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/test-runs-reports-overview-in-katalon-testops)
+
+> [Click here for more information](https://docs.katalon.com/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/testops-dashboard-overview)
