@@ -48,8 +48,12 @@
 
    <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/in-app-tutorials/shared-images/generated-command.png" width=280>
 
-7. [Click here](https://docs.katalon.com/docs/general-information/supported-integration/supported-integrations-in-katalon-platform#cicd-integration) to explore the supported CI/CD integrations.
+> [Click here for a detailed KRE execution tutorial](https://docs.katalon.com/docs/execute/katalon-runtime-engine/get-started-with-katalon-runtime-engine)
 
-   > [Click here for a detailed KRE execution tutorial](https://docs.katalon.com/docs/execute/katalon-runtime-engine/command-line-syntax-in-katalon-runtime-engine#command-builder-in-katalon-studio)
+ Katalon Runtime Engine supports running tests in several CI environments. Depending on your preference, you can integrate with GitLab, Github Action, or Azure DevOps. 
+ 
+ [Click here](https://docs.katalon.com/docs/general-information/supported-integration/supported-integrations-in-katalon-platform#cicd-integration) to explore other supported CI/CD integrations.
+
+   
 
 

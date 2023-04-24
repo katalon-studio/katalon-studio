@@ -8,7 +8,7 @@
 
 2. Go to your Project Dashboard on [Katalon Platform](https://testops.katalon.io). 
 
-    <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/in-app-tutorials/shared-images/kt-dashboard.png" width=350>
+    <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/in-app-tutorials/shared-images/kt-dashboard-1.png" width=350>
     
     Here you can access the advanced reports and analytics of your test execution.
 
