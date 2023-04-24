@@ -1,6 +1,6 @@
 ## Analyze test reports
 
-1. Go to Project > Settings > Katalon Platform. Make sure Katalon Platform integration and automatically upload reports options are enabled.
+1. Go to **Project** > **Settings** > **Katalon Platform**. Make sure you have enabled Katalon Platform integration and automatically upload all test reports to Katalon Platform.
 
     <img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/in-app-tutorials/shared-images/ks-upload-reports-enabled.png" width=350>
 
