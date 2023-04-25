@@ -53,7 +53,3 @@
  Katalon Runtime Engine supports running tests in several CI environments. Depending on your preference, you can integrate with GitLab, Github Action, or Azure DevOps. 
  
  [Click here](https://docs.katalon.com/docs/general-information/supported-integration/supported-integrations-in-katalon-platform#cicd-integration) to explore other supported CI/CD integrations.
-
-   
-
-
