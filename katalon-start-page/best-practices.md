@@ -1,5 +1,5 @@
-### [Webinar | Software Quality Insights: A Deep Dive into Katalon's State of Quality Report 2023 is here!](https://katalon.com/webinars/state-of-software-quality-insights?utm_source=katalon&utm_medium=ks-start-page)
+### [Onboarding webinar series| Get Started with Automation Testing in Katalon Platform](https://katalon.com/webinars/get-started-with-automation-testing?utm_source=katalon&utm_medium=ks-start-page)
 
-<img src="https://cms-cdn.katalon.com/Katalon_the_State_of_Software_Quality_2023_webinar_80909bdbe9.png?">
+<img src="https://cms-cdn.katalon.com/Get_Started_with_Automation_Testing_in_Katalon_Platform_41fae68550.png?">
  
- Don’t miss this fireside chat with Deloitte, Cigniti and Katalon experts where we'll give you more than just findings and statistics!
+You are invited to our exclusive Onboarding Webinar Series led by industry experts and Katalon technical support teams! Join us to learn how to use the Katalon Platform quickly with practical use cases and live Q&A.
