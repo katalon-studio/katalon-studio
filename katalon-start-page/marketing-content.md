@@ -1,7 +1,8 @@
-### [Katalon's State of Software Quality 2023 | Download Now](https://katalon.com/state-quality-2023?utm_source=katalon&utm_medium=ks-start-page&utm_id=soq-2023)
+### [Introducing GPT-powered manual test generation | Try now](https://docs.katalon.com/docs/organize/integration-for-organizing-tests/jira-integration/generate-manual-test-cases-with-jira-integration)
 
-<img src="https://cms-cdn.katalon.com/Katalon_State_of_Software_Quality_2023_0da6b56e4b.png">
+<img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/MKT/In-App-KS-Start-page.png">
 
-Discover software quality insights from 3,000+ QA teams. 
+The latest addition to Katalon’s growing list of AI-augmented features:
+GPT-powered manual test generation.
 
-Topics include: top QA techniques & trends, test automation ROI boosts of 20%+, and the future of testing (including AI and autonomous capabilities).
+This new feature enables Jira users to automatically generate manual test steps with a click of a button directly from Jira case descriptions, allowing users to spend less time interpreting requirements and writing test steps and more time testing.
