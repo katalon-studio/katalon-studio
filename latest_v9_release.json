@@ -16,7 +16,7 @@
     },
     {
         "location": "https://download.katalon.com/9.0.0.beta/Katalon%20Studio%20Arm64.dmg",
-        "file": "mac_64",
+        "file": "mac_arm64",
         "type": "kse"
     },
     {
