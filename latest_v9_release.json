@@ -1,0 +1,47 @@
+[
+    {
+        "location": "https://download.katalon.com/7.8.2/Katalon_Studio_Windows_32-7.8.2.zip",
+        "file": "win_32",
+        "type": "kse"
+    },
+    {
+        "location": "https://download.katalon.com/9.0.0.beta/Katalon_Studio_Windows_64-9.0.0.beta.zip",
+        "file": "win_64",
+        "type": "kse"
+    },
+    {
+        "location": "https://download.katalon.com/9.0.0.beta/Katalon%20Studio.dmg",
+        "file": "mac_64",
+        "type": "kse"
+    },
+    {
+        "location": "https://download.katalon.com/9.0.0.beta/Katalon%20Studio%20Arm64.dmg",
+        "file": "mac_arm64",
+        "type": "kse"
+    },
+    {
+        "location": "https://download.katalon.com/9.0.0.beta/Katalon_Studio_Linux_64-9.0.0.beta.tar.gz",
+        "file": "linux_64",
+        "type": "kse"
+    },
+    {
+        "location": "https://download.katalon.com/7.8.2/Katalon_Studio_Engine_Windows_32-7.8.2.zip",
+        "file": "win_32",
+        "type": "re"
+    },
+    {
+        "location": "https://download.katalon.com/9.0.0.beta/Katalon_Studio_Engine_Windows_64-9.0.0.beta.zip",
+        "file": "win_64",
+        "type": "re"
+    },
+    {
+        "location": "https://download.katalon.com/9.0.0.beta/Katalon_Studio_Engine_MacOS-9.0.0.beta.tar.gz",
+        "file": "mac_64",
+        "type": "re"
+    },
+    {
+        "location": "https://download.katalon.com/9.0.0.beta/Katalon_Studio_Engine_Linux_64-9.0.0.beta.tar.gz",
+        "file": "linux_64",
+        "type": "re"
+    }
+]
