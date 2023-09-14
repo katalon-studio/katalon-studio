@@ -1,6 +1,7 @@
-### [Highlights from 8.6.5](https://docs.katalon.com/docs/general-information/release-notes/katalon-studio/katalon-studio-release-notes-version-8.x)
+### [Highlights from 9.0.0.beta](https://docs.katalon.com/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-9.x)
 
-* Added new onboarding tours.
-* Added new UI for the **Start Page** and **Quickstart guide**.
-* Added the new **Analytics** tab in the **Test Suite editor**.
-* Add 3 new columns in the **Main** tab of the **Test Suite editor**: **Flakiness**, **Latest Run**, and **Avg. Duration**.
+* Upgraded Eclipse IDE from version 4.16 to 4.27 (2023-03).
+* Upgraded Java from version 8 to 17.
+* Upgraded the Groovy compiler from version 2.4.2 to version 3.0.17.
+* Upgraded EGit from version 4.6.1 to 6.5.
+* [Git integration] Added support for RSA SHA-2, ECDSA, and Ed25519 SSH keys.
