@@ -1,21 +1,21 @@
 [
     {
         "os": "macOS (app)",
-        "version": "9.0.0.beta",
+        "version": "9.0.0",
         "filename": "Katalon.Studio.app.zip",
-        "url": "https://download.katalon.com/9.0.0.beta/Katalon_Studio_Engine_MacOS-9.0.0.beta.tar.gz"
+        "url": "https://download.katalon.com/9.0.0/Katalon_Studio_Engine_MacOS-9.0.0.tar.gz"
     },
     {
         "os": "Linux",
-        "version": "9.0.0.beta",
-        "filename": "Katalon_Studio_Linux_64-9.0.0.beta.tar.gz",
-        "url": "https://download.katalon.com/9.0.0.beta/Katalon_Studio_Engine_Linux_64-9.0.0.beta.tar.gz"
+        "version": "9.0.0",
+        "filename": "Katalon_Studio_Linux_64-9.0.0.tar.gz",
+        "url": "https://download.katalon.com/9.0.0/Katalon_Studio_Engine_Linux_64-9.0.0.tar.gz"
     },
     {
         "os": "Windows 64",
-        "version": "9.0.0.beta",
-        "filename": "Katalon_Studio_Windows_64-9.0.0.beta.zip",
-        "url": "https://download.katalon.com/9.0.0.beta/Katalon_Studio_Engine_Windows_64-9.0.0.beta.zip"
+        "version": "9.0.0",
+        "filename": "Katalon_Studio_Windows_64-9.0.0.zip",
+        "url": "https://download.katalon.com/9.0.0/Katalon_Studio_Engine_Windows_64-9.0.0.zip"
     },
     {
         "os": "macOS (app)",
