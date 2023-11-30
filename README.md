@@ -36,7 +36,7 @@ For instructions on using Katalon Studio, visit our documentation website: [Full
 
 * Visit the [Documentation website](https://docs.katalon.com/katalon-studio/docs/overview.html) for some useful tutorials.
 * Learn automation testing with Katalon Studio by enrolling in [Katalon Academy](https://academy.katalon.com/#katalon-studio) courses.
-* Ask questions on the [Katalon Community](https://forum.katalon.com/c/katalon-studio) forum.
+* Ask questions on the [Katalon Community](https://forum.katalon.com/new-topic?title=Give%20your%20topic%20a%20title&body=Type%20your%20question%20here.%20Then%20choose%20a%20suitable%20category%20and%20tag(s)) forum.
 * Create [Github Issues](https://github.com/katalon-studio/katalon-studio/issues) for bug reports and feature requests.
 
 ## Companion products
