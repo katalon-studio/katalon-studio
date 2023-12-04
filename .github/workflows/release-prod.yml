@@ -1,11 +1,12 @@
-name: "[CICD] Invalidate Cache For Katalon"
+name: "[CICD] Invalidate Cache For Katalon Studio"
 
 on:
-  push:
-    branches:
-      - CO-2205
   workflow_dispatch:
     inputs:
+      cloudfront_id:
+        description: CloudFront Id
+        required: true
+        default: E1S9HCHW5N31CV
       cloudfront_object_paths:
         description: Object Paths to invalidate cache
         required: true
@@ -17,12 +18,11 @@ permissions:
 
 env:
   AWS_ACCOUNT_ID: "346625874447" # Prod
-  CLOUDFRONT_ID: E1S9HCHW5N31CV
 
 jobs:
   invalidate_cache:
     runs-on: ubuntu-latest
-    name: Invalidate Cache Katalon
+    name: Invalidate Cache Katalon Studio
     environment: prod
     env:
       SERVICE_NAME: katalon
@@ -31,5 +31,5 @@ jobs:
         uses: katalon-studio/katalon-base-actions/actions/invalidate-cloudfront-cache@main
         with:
           aws_account_id: ${{ env.AWS_ACCOUNT_ID }}
-          cloudfront_id: ${{ env.CLOUDFRONT_ID }}
+          cloudfront_id: ${{ inputs.cloudfront_id }}
           cloudfront_object_paths: ${{ inputs.cloudfront_object_paths }}
