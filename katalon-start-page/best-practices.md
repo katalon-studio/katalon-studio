@@ -1,5 +1,7 @@
-### [Onboarding webinar series 2.0 | Get Started with Automation Testing in Katalon Platform](https://katalon.com/webinars/onboarding-webinar-series-2.0?utm_source=katalon&utm_medium=ks-start-page)
+### [Katalon Virtual Summit | Quality Horizon 2024 - The Software Quality Forum](https://katalon.com/webinars/quality-horizon-2024?&utm_campaign=LG_QualityHorizon&utm_medium=ksstartpage&utm_source=katalon)
 
-<img src="https://cms-cdn.katalon.com/Get_Started_with_Automation_Testing_in_Katalon_Platform_3bd1ff9f39.png?">
+[<img src="https://cms-cdn.katalon.com/1202_1_5685c2e729.png?">](https://katalon.com/webinars/quality-horizon-2024?&utm_campaign=LG_QualityHorizon&utm_medium=ksstartpage&utm_source=katalon)
  
-Taking full advantage of the Katalon Platform capabilities with live demos and best practices from Katalon testing experts. Join us live for interactive Q&A sessions and get your questions answered.
+Come join us, Curiosity Software, OctoPerf, WireMock, and Xray for insightful sessions and a chance to connect with industry experts shaping the software quality landscape.
+
+Can’t make it? [Register anyway](https://katalon.com/webinars/quality-horizon-2024?&utm_campaign=LG_QualityHorizon&utm_medium=ksstartpage&utm_source=katalon) to get a copy of the recording.
