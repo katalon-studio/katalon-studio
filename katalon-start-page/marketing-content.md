@@ -1,8 +1,9 @@
-### [Introducing GPT-powered manual test generation | Try now](https://docs.katalon.com/docs/organize/integration-for-organizing-tests/jira-integration/generate-manual-test-cases-with-jira-integration)
+### [3000 tester share insights last year, will you share yours?](https://katalon.com/surveys?sid=22c2234c1df1b562&p=anonymous&utm_campaign=SOQ24&utm_medium=ks&utm_source=katalon&utm_content=news)
 
-<img src="https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/docs/MKT/In-App-KS-Start-page.png">
+[<img src="https://cms-cdn.katalon.com/In_App_KS_Start_page_1_30a97c4110.png?">](https://katalon.com/surveys?sid=22c2234c1df1b562&p=anonymous&utm_campaign=SOQ24&utm_medium=ks&utm_source=katalon&utm_content=news)
 
-The latest addition to Katalon’s growing list of AI-augmented features:
-GPT-powered manual test generation.
+State of Software Quality is an annual report by Katalon that updates quality teams with the latest industry innovations. This year, we are back to capture what’s trending in the field of quality engineering and we need your help! 
 
-This new feature enables Jira users to automatically generate manual test steps with a click of a button directly from Jira case descriptions, allowing users to spend less time interpreting requirements and writing test steps and more time testing.
+Share us your valuable insights and help us shape the future software testing industry. Let's make impactful decision together
+
+[**Take Survey Now**](https://katalon.com/surveys?sid=22c2234c1df1b562&p=anonymous&utm_campaign=SOQ24&utm_medium=ks&utm_source=katalon&utm_content=news)
