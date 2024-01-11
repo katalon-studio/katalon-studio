@@ -27,6 +27,7 @@ jobs:
     env:
       SERVICE_NAME: katalon
     steps:
+      - uses: actions/checkout@v3
       - name: Invalidate CloudFront cache
         uses: katalon-studio/katalon-base-actions/actions/invalidate-cloudfront-cache@main
         with:
