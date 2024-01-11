@@ -16,20 +16,30 @@ permissions:
   id-token: write # This is required for requesting the JWT
   contents: read  # This is required for actions/checkout
 
-env:
-  AWS_ACCOUNT_ID: "346625874447" # Prod
-
 jobs:
   invalidate_cache:
     runs-on: ubuntu-latest
     name: Invalidate Cache Katalon Studio
+    environment: prod
     steps:
-      - name: Set environment base on branch
-        id: set_env
-        uses: katalon-studio/katalon-base-actions/actions/get-env@v1
-        with:
-          slack_webhook: ${{ secrets.SLACK_WEBHOOK }}
-          qa_branch: develop
-          stg_branch: master
-    outputs:
-      ENV: ${{ inputs.environment || steps.set_env.outputs.ENV }}
+      ### AWS Config
+    - name: Configure AWS credentials
+      uses: aws-actions/configure-aws-credentials@v2
+      with:
+        role-to-assume: arn:aws:iam::${{ vars.AWS_ACCOUNT_ID }}:role/katalon-github-oidc-federation
+        role-session-name: github-actions
+        aws-region: ${{ vars.AWS_REGION }}
+        mask-aws-account-id: 'no'
+
+    - name: Invalidate CloudFront cache
+      id: invalidate_cache
+      shell: bash
+      run: |
+        CLOUDFRONT_OBJECT_PATHS="${{ inputs.cloudfront_object_paths }}"
+        PATHS=($(
+          echo "${CLOUDFRONT_OBJECT_PATHS}" | tr ' ' '\n'
+        ))
+        CLOUDFRONT_ID=${{ inputs.cloudfront_id }}
+        for path in "${PATHS[@]}"; do
+          aws cloudfront create-invalidation --distribution-id ${CLOUDFRONT_ID} --paths "$path" --output text
+        done
