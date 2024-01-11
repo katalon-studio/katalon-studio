@@ -23,14 +23,13 @@ jobs:
   invalidate_cache:
     runs-on: ubuntu-latest
     name: Invalidate Cache Katalon Studio
-    environment: prod
-    env:
-      SERVICE_NAME: katalon
     steps:
-      - uses: actions/checkout@v3
-      - name: Invalidate CloudFront cache
-        uses: katalon-studio/katalon-base-actions/actions/invalidate-cloudfront-cache@main
+      - name: Set environment base on branch
+        id: set_env
+        uses: katalon-studio/katalon-base-actions/actions/get-env@v1
         with:
-          aws_account_id: ${{ env.AWS_ACCOUNT_ID }}
-          cloudfront_id: ${{ inputs.cloudfront_id }}
-          cloudfront_object_paths: ${{ inputs.cloudfront_object_paths }}
+          slack_webhook: ${{ secrets.SLACK_WEBHOOK }}
+          qa_branch: develop
+          stg_branch: master
+    outputs:
+      ENV: ${{ inputs.environment || steps.set_env.outputs.ENV }}
