@@ -3,4 +3,5 @@
 * You can now log in to Studio with SAML SSO and custom domain SSO.
 * [Report] Improved the mechanism for generating heavy HTML reports.
 * [Web Recorder] You can now record the Set Text action in Rich Text Editor.
+* Added Chrome 121 and Gecko 0.34 compatibilities.
 * Experience a fresh appearance for Login dialog.
