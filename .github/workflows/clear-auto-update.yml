@@ -1,4 +1,4 @@
-name: "[CICD] Invalidate Cache For Katalon Studio"
+name: "[CICD] Clear Auto Update Cache For Katalon Studio"
 
 on:
   workflow_dispatch:
@@ -10,7 +10,7 @@ on:
       cloudfront_object_paths:
         description: Object Paths to invalidate cache
         required: true
-        default: '/latest_v9_version.json'
+        default: '/update/latest_v9_version.json'
         
 permissions:
   id-token: write # This is required for requesting the JWT
@@ -19,7 +19,7 @@ permissions:
 jobs:
   invalidate_cache:
     runs-on: ubuntu-latest
-    name: Invalidate Cache Katalon Studio
+    name: Clear Auto Update Cache Katalon Studio
     environment: prod
     steps:
       ### AWS Config
@@ -31,8 +31,8 @@ jobs:
         aws-region: ${{ vars.AWS_REGION }}
         mask-aws-account-id: 'no'
 
-    - name: Invalidate CloudFront cache
-      id: invalidate_cache
+    - name: Clear CloudFront cache
+      id: clear_cache
       shell: bash
       run: |
         CLOUDFRONT_OBJECT_PATHS="${{ inputs.cloudfront_object_paths }}"
