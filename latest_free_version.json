@@ -1,9 +1,9 @@
 
 {
-    "latestVersion": "9.3.2",
+    "latestVersion": "9.4.0",
     "newMechanism": true,
-    "latestUpdateLocation": "https://katalon.s3.amazonaws.com/free/9.3.2/update",
-    "latestPlatformUpdateLocation": "https://katalon.s3.amazonaws.com/free/9.3.2/update",
+    "latestUpdateLocation": "https://katalon.s3.amazonaws.com/free/9.4.0/update",
+    "latestPlatformUpdateLocation": "https://katalon.s3.amazonaws.com/free/9.4.0/update",
     "releaseNotesLink": "https://docs.katalon.com/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-9.x",
     "quickRelease": true
 }
