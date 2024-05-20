@@ -1,7 +1,5 @@
-### [Katalon Virtual Summit | Quality Horizon 2024 - The Software Quality Forum](https://katalon.com/webinars/quality-horizon-2024?&utm_campaign=LG_QualityHorizon&utm_medium=ksstartpage&utm_source=katalon)
+### [Enhance Test Automation Efficiency with Katalon StudioAssist](https://katalon.com/resources-center/blog/optimize-test-code-with-katalon-studioassist)
 
-[<img src="https://cms-cdn.katalon.com/1202_1_5685c2e729.png?">](https://katalon.com/webinars/quality-horizon-2024?&utm_campaign=LG_QualityHorizon&utm_medium=ksstartpage&utm_source=katalon)
- 
-Come join us, Curiosity Software, OctoPerf, WireMock, and Xray for insightful sessions and a chance to connect with industry experts shaping the software quality landscape.
+[<img src="https://github.com/katalon-studio/katalon-studio/assets/87002543/baf002cc-cbc3-404d-ae14-a391e11ad8dd">](https://katalon.com/resources-center/blog/optimize-test-code-with-katalon-studioassist)
 
-Can’t make it? [Register anyway](https://katalon.com/webinars/quality-horizon-2024?&utm_campaign=LG_QualityHorizon&utm_medium=ksstartpage&utm_source=katalon) to get a copy of the recording.
+Katalon StudioAssist, powered by GPT technology, is designed to revolutionize how individual contributors interact with their existing test code. Check out tips and tricks on how to leverage AI inside Studio here!
