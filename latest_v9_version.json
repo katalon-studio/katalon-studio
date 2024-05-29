@@ -1,9 +1,8 @@
-
 {
-    "latestVersion": "9.4.0",
+    "latestVersion": "9.5.0",
     "newMechanism": true,
-    "latestUpdateLocation": "https://katalon.s3.amazonaws.com/update/9.4.0",
-    "latestPlatformUpdateLocation": "https://katalon.s3.amazonaws.com/update/9.4.0",
+    "latestUpdateLocation": "https://download.katalon.com/update/9.5.0",
+    "latestPlatformUpdateLocation": "https://download.katalon.com/update/9.5.0",
     "releaseNotesLink": "https://docs.katalon.com/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-9.x",
     "quickRelease": true
 }
