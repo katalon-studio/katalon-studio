@@ -1,6 +1,6 @@
 ### [Highlights from 9.5.0](https://docs.katalon.com/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-9.x)
 
-* Introduced Mobile Recorder and Object Spy with TestCloud devices.
+* Introduced mobile native app recorder and object spy with TestCloud devices.
 * Added the ability to execute test cases, test suites, and test suite collections with mobile native apps on TestCloud devices. 
 * Added the ability to use StudioAssist with personal OpenAI and personal Azure OpenAI API key.
 
