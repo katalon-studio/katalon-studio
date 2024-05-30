@@ -10,4 +10,4 @@ Katalon StudioAssist, powered by GPT technology, is designed to revolutionize h
 
 * Sample project to try out: [StudioAssist sample project](https://docs.katalon.com/katalon-studio/get-started/sample-projects/studioassist/sample-studioassist-project#ariaid-title1)
 
-Check out tips and tricks on how to leverage AI inside Studio here!
+Check out tips and tricks on how to leverage AI inside Studio now!
