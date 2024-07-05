@@ -1,9 +1,10 @@
-### [3000 tester share insights last year, will you share yours?](https://katalon.com/surveys?sid=22c2234c1df1b562&p=anonymous&utm_campaign=SOQ24&utm_medium=ks&utm_source=katalon&utm_content=news)
+### [Get to win $100 by helping us improve Katalon Studio](https://forum.katalon.com/t/survey-get-to-win-100-by-helping-us-improve-katalon-studio/136370?u=albert.vu)
 
-[<img src="https://cms-cdn.katalon.com/In_App_KS_Start_page_1_30a97c4110.png?">](https://katalon.com/surveys?sid=22c2234c1df1b562&p=anonymous&utm_campaign=SOQ24&utm_medium=ks&utm_source=katalon&utm_content=news)
+[<img src="https://github.com/katalon-studio/katalon-studio/assets/87002543/8640e32f-8861-42dc-9c21-fd8ef27f54b3">](https://forum.katalon.com/t/survey-get-to-win-100-by-helping-us-improve-katalon-studio/136370?u=albert.vu)
 
-State of Software Quality is an annual report by Katalon that updates quality teams with the latest industry innovations. This year, we are back to capture what’s trending in the field of quality engineering and we need your help! 
+By completing this survey, you will help our Studio team understand more about how you are currently using the tool, which features are important to you, and which areas you would like to see us improve upon.
 
-Share us your valuable insights and help us shape the future software testing industry. Let's make impactful decision together
+Everyone who completed the survey will also be able to enter a Lucky draw for a chance to win $100!
 
-[**Take Survey Now**](https://katalon.com/surveys?sid=22c2234c1df1b562&p=anonymous&utm_campaign=SOQ24&utm_medium=ks&utm_source=katalon&utm_content=news)
+[**Take Survey Now**](https://survey.survicate.com/cc287cf0cd1598d7/?p=hubspot&first_name={{contact.firstname}}&last_name={{contact.lastname}}&email={{contact.email}})
+
