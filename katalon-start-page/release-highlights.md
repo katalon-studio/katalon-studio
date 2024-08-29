@@ -1,7 +1,7 @@
-### [Highlights from 9.5.0 and 9.6.0](https://docs.katalon.com/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-9.x)
+### [Highlights from 9.7.0](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-9.x)
 
-* [API testing] Introduced new AI-powered feature: [Generate test cases from OpenAPI/ Swagger file or URL](https://docs.katalon.com/docs/katalon-studio/create-test-cases/generate-api-tests-with-ai).
-* [Mobile testing] Added the ability to record, spy, and execute with [TestCloud mobile native apps](https://docs.katalon.com/katalon-platform/execute/test-execution-with-testcloud/use-testcloud-in-katalon-studio#ariaid-title1).
-* [StudioAssist] Added the ability to use [StudioAssist](https://docs.katalon.com/katalon-studio/create-test-cases/studioassist-in-katalon-studio#ariaid-title1) with personal OpenAI and personal Azure OpenAI API keys.
-
-
+* [API testing] Introduced OpenAPI/Swagger Schema Compliance Validation.
+* [API testing] Added **AWS Signature Authentication** and **Digest Authentication** in the Authorization tab of a Web Service request.
+* [Mobile] Added the ability to set the default element locator value of test objects when using Mobile Recorder and Mobile Object Spy.
+* Added new KRE command-line options to retry activating licenses several times when KRE failed to activate.
+* Introduced **Log in from browser** using On-premise licenses.
