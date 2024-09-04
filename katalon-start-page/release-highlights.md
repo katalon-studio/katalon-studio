@@ -1,4 +1,4 @@
-### [Highlights from 9.7.1](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-9.x)
+### [Highlights from 9.7.0](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-9.x)
 
 * [API testing] Introduced OpenAPI/Swagger Schema Compliance Validation.
 * [API testing] Added **AWS Signature Authentication** and **Digest Authentication** in the Authorization tab of a Web Service request.
