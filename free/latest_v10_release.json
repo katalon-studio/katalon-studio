@@ -1,0 +1,27 @@
+[
+    {
+        "location": "https://download.katalon.com/free/10.0.0/release/Katalon_Studio_Free_Windows_64-10.0.0.zip",
+        "file": "win_64",
+        "type": "ks"
+    },
+    {
+        "location": "https://download.katalon.com/free/10.0.0/release/Katalon%20Studio%20Free.dmg",
+        "file": "mac_64",
+        "type": "ks"
+    },
+    {
+        "location": "https://download.katalon.com/free/10.0.0/release/Katalon%20Studio%20Free%20Arm64.dmg",
+        "file": "mac_aarch64",
+        "type": "ks"
+    },
+    {
+        "location": "https://download.katalon.com/free/10.0.0/release/Katalon_Studio_Free_Linux_64-10.0.0.tar.gz",
+        "file": "linux_64",
+        "type": "ks"
+    },
+    {
+        "location": "https://download.katalon.com/free/10.0.0/release/Katalon_Studio_Free_Linux_arm64-10.0.0.tar.gz",
+        "file": "linux_arm64",
+        "type": "ks"
+    }
+]
