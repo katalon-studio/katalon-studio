@@ -11,7 +11,7 @@
     },
     {
         "location": "https://download.katalon.com/free/10.0.0/release/Katalon%20Studio%20Arm64.dmg",
-        "file": "mac_aarch64",
+        "file": "mac_arm64",
         "type": "ks"
     },
     {
