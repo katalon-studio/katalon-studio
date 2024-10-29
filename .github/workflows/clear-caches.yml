@@ -1,4 +1,4 @@
-name: "[CICD] Clear Auto Update Cache For Katalon Studio"
+name: "[CICD] Clear Caches For Katalon Studio"
 
 on:
   workflow_dispatch:
@@ -10,12 +10,12 @@ on:
       cloudfront_object_paths:
         description: Object Paths to invalidate cache
         required: true
-        default: |
-          '/latest_v9_release.json, /update/latest_v9_version.json, 
+        default: >
+          /latest_v9_release.json, /update/latest_v9_version.json, 
           /latest_v10_release.json, /update/latest_v10_version.json, 
           /free/latest_v9_release.json, /free/update/latest_v9_version.json, 
           /free/latest_v10_release.json, /free/update/latest_v10_version.json
-          /katalon-studio/releases.json'
+          /katalon-studio/releases.json
         
 permissions:
   id-token: write # This is required for requesting the JWT
@@ -47,7 +47,8 @@ jobs:
         IFS=',' read -r -a PATHS <<< "$CLOUDFRONT_OBJECT_PATHS"
 
         for path in "${PATHS[@]}"; do
-          trimmed_path=$(echo "$path" | xargs)
+          trimmed_path="${path#"${path%%[![:space:]]*}"}"  # Trim leading whitespace
+          trimmed_path="${trimmed_path%"${trimmed_path##*[![:space:]]}"}"  # Trim trailing whitespace
           echo "cleanup: $trimmed_path"
           aws cloudfront create-invalidation --distribution-id ${CLOUDFRONT_ID} --paths "$trimmed_path" --output text
         done
