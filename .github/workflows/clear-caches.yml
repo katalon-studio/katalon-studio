@@ -14,7 +14,7 @@ on:
           /latest_v9_release.json, /update/latest_v9_version.json, 
           /latest_v10_release.json, /update/latest_v10_version.json, 
           /free/latest_v9_release.json, /free/update/latest_v9_version.json, 
-          /free/latest_v10_release.json, /free/update/latest_v10_version.json
+          /free/latest_v10_release.json, /free/update/latest_v10_version.json,
           /katalon-studio/releases.json
         
 permissions:
@@ -49,6 +49,5 @@ jobs:
         for path in "${PATHS[@]}"; do
           trimmed_path="${path#"${path%%[![:space:]]*}"}"  # Trim leading whitespace
           trimmed_path="${trimmed_path%"${trimmed_path##*[![:space:]]}"}"  # Trim trailing whitespace
-          echo "cleanup: $trimmed_path"
           aws cloudfront create-invalidation --distribution-id ${CLOUDFRONT_ID} --paths "$trimmed_path" --output text
         done
