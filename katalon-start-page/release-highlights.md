@@ -1,8 +1,7 @@
-### [Highlights from 9.7.2](https://docs.katalon.com/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-9.x)
+### [Highlights from 10.0.0](https://docs.katalon.com/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-10.x)
 
-* [API testing] Introduced OpenAPI/Swagger Schema Compliance Validation.
-* [API testing] Added **AWS Signature Authentication** and **Digest Authentication** in the Authorization tab of a Web Service request.
-* [Mobile] Added the ability to set the default element locator value of test objects when using Mobile Recorder and Mobile Object Spy.
-* [TestCloud] Added an option to filter mobile devices with high availability status.
-* Added new KRE command-line options to retry activating licenses several times when KRE failed to activate.
-* Introduced **Log in from browser** using On-premise licenses.
+* Upgraded to Selenium 4.22, Java Client 9.23, and Appium 2.11.1.
+* Custom keyword is back in the free edition.
+* You can now execute scripts containing Smart Locator and using Smart Wait without installing extensions leveraging BiDi.
+* Supported mobile testing with iOS 18 official.
+* Added new WebUI keywords: New Tab, Scroll from origin offset (beta).
