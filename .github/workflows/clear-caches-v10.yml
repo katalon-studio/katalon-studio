@@ -1,4 +1,4 @@
-name: "[CICD] Clear Caches For Katalon Studio"
+name: "[CICD] Clear Caches For Katalon Studio v10"
 
 on:
   workflow_dispatch:
@@ -11,10 +11,8 @@ on:
         description: Object Paths to invalidate cache
         required: true
         default: >
-          /latest_v9_release.json, /update/latest_v9_version.json, 
           /latest_v10_release.json, /update/latest_v10_version.json, 
-          /free/latest_v9_release.json, /free/update/latest_v9_version.json, 
-          /free/latest_v10_release.json, /free/update/latest_v10_version.json,
+          /free/latest_v10_release.json, /update/free/latest_v10_version.json,
           /katalon-studio/releases.json
         
 permissions:

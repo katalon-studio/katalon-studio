@@ -1,0 +1,51 @@
+name: "[CICD] Clear Caches For Katalon Studio v9"
+
+on:
+  workflow_dispatch:
+    inputs:
+      cloudfront_id:
+        description: CloudFront Id
+        required: true
+        default: E1S9HCHW5N31CV
+      cloudfront_object_paths:
+        description: Object Paths to invalidate cache
+        required: true
+        default: >
+          /latest_v9_release.json, /update/latest_v9_version.json, 
+          /free/latest_v9_release.json, /update/free/latest_v9_version.json, 
+          /katalon-studio/releases.json
+        
+permissions:
+  id-token: write # This is required for requesting the JWT
+  contents: read  # This is required for actions/checkout
+
+jobs:
+  invalidate_cache:
+    runs-on: ubuntu-latest
+    name: Clear Auto Update Cache Katalon Studio
+    environment: prod
+    steps:
+      ### AWS Config
+    - name: Configure AWS credentials
+      uses: aws-actions/configure-aws-credentials@v2
+      with:
+        role-to-assume: arn:aws:iam::${{ vars.AWS_ACCOUNT_ID }}:role/katalon-github-oidc-federation
+        role-session-name: github-actions
+        aws-region: ${{ vars.AWS_REGION }}
+        mask-aws-account-id: 'no'
+
+    - name: Clear CloudFront cache
+      id: clear_cache
+      shell: bash
+      run: |
+        CLOUDFRONT_OBJECT_PATHS="${{ inputs.cloudfront_object_paths }}"
+        CLOUDFRONT_ID=${{ inputs.cloudfront_id }}
+
+        # Convert string to array by splitting on commas
+        IFS=',' read -r -a PATHS <<< "$CLOUDFRONT_OBJECT_PATHS"
+
+        for path in "${PATHS[@]}"; do
+          trimmed_path="${path#"${path%%[![:space:]]*}"}"  # Trim leading whitespace
+          trimmed_path="${trimmed_path%"${trimmed_path##*[![:space:]]}"}"  # Trim trailing whitespace
+          aws cloudfront create-invalidation --distribution-id ${CLOUDFRONT_ID} --paths "$trimmed_path" --output text
+        done
