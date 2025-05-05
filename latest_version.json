@@ -1,9 +1,9 @@
 
 {
-    "latestVersion": "8.6.9",
+    "latestVersion": "8.6.10",
     "newMechanism": true,
-    "latestUpdateLocation": "https://download.katalon.com/update/8.6.9",
-    "latestPlatformUpdateLocation": "https://download.katalon.com/update/8.6.9",
+    "latestUpdateLocation": "https://download.katalon.com/update/8.6.10",
+    "latestPlatformUpdateLocation": "https://download.katalon.com/update/8.6.10",
     "releaseNotesLink": "https://docs.katalon.com/katalon-studio/new/index.html",
     "quickRelease": true
 }
