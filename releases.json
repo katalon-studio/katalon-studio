@@ -1,5 +1,11 @@
 [
     {
+        "os": "Linux",
+        "version": "10.2.1-rc5",
+        "filename": "Katalon_Studio_Linux_64-10.2.1.tar.gz",
+        "url": "https://download.katalon.com/10.2.1-rc5/Katalon_Studio_Engine_Linux_64-10.2.1.tar.gz"
+    },
+    {
         "os": "macOS (app)",
         "version": "10.2.0",
         "filename": "Katalon.Studio.app.zip",
