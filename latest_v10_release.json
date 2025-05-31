@@ -1,51 +1,51 @@
 [
     {
-        "location": "https://download.katalon.com/10.2.0/Katalon_Studio_Enterprise_Windows_64-10.2.0.zip",
+        "location": "https://download.katalon.com/10.2.1/Katalon_Studio_Enterprise_Windows_64-10.2.1.zip",
         "file": "win_64",
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/10.2.0/Katalon%20Studio%20Enterprise.dmg",
+        "location": "https://download.katalon.com/10.2.1/Katalon%20Studio%20Enterprise.dmg",
         "file": "mac_64",
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/10.2.0/Katalon%20Studio%20Enterprise%20Arm64.dmg",
+        "location": "https://download.katalon.com/10.2.1/Katalon%20Studio%20Enterprise%20Arm64.dmg",
         "file": "mac_arm64",
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/10.2.0/Katalon_Studio_Enterprise_Linux_64-10.2.0.tar.gz",
+        "location": "https://download.katalon.com/10.2.1/Katalon_Studio_Enterprise_Linux_64-10.2.1.tar.gz",
         "file": "linux_64",
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/10.2.0/Katalon_Studio_Enterprise_Linux_arm64-10.2.0.tar.gz",
+        "location": "https://download.katalon.com/10.2.1/Katalon_Studio_Enterprise_Linux_arm64-10.2.1.tar.gz",
         "file": "linux_arm64",
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/10.2.0/Katalon_Studio_Engine_Windows_64-10.2.0.zip",
+        "location": "https://download.katalon.com/10.2.1/Katalon_Studio_Engine_Windows_64-10.2.1.zip",
         "file": "win_64",
         "type": "re"
     },
     {
-        "location": "https://download.katalon.com/10.2.0/Katalon_Studio_Engine_MacOS-10.2.0.tar.gz",
+        "location": "https://download.katalon.com/10.2.1/Katalon_Studio_Engine_MacOS-10.2.1.tar.gz",
         "file": "mac_64",
         "type": "re"
     },
     {
-        "location": "https://download.katalon.com/10.2.0/Katalon_Studio_Engine_MacOS_Arm64-10.2.0.tar.gz",
+        "location": "https://download.katalon.com/10.2.1/Katalon_Studio_Engine_MacOS_Arm64-10.2.1.tar.gz",
         "file": "mac_arm64",
         "type": "re"
     },
     {
-        "location": "https://download.katalon.com/10.2.0/Katalon_Studio_Engine_Linux_64-10.2.0.tar.gz",
+        "location": "https://download.katalon.com/10.2.1/Katalon_Studio_Engine_Linux_64-10.2.1.tar.gz",
         "file": "linux_64",
         "type": "re"
     },
     {
-        "location": "https://download.katalon.com/10.2.0/Katalon_Studio_Engine_Linux_arm64-10.2.0.tar.gz",
+        "location": "https://download.katalon.com/10.2.1/Katalon_Studio_Engine_Linux_arm64-10.2.1.tar.gz",
         "file": "linux_arm64",
         "type": "re"
     }
