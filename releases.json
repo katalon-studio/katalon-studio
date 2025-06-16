@@ -1,5 +1,11 @@
 [
     {
+        "os": "Linux",
+        "version": "10.2.2-rc7",
+        "filename": "Katalon_Studio_Linux_64-10.2.2.tar.gz",
+        "url": "https://download.katalon.com/10.2.2-rc1/Katalon_Studio_Engine_Linux_64-10.2.2.tar.gz"
+    },
+    {
         "os": "macOS (app)",
         "version": "10.2.1",
         "filename": "Katalon.Studio.app.zip",
@@ -24,18 +30,6 @@
         "url": "https://download.katalon.com/10.2.1-rc7/Katalon_Studio_Engine_Linux_64-10.2.1.tar.gz"
     },
     {
-        "os": "Linux",
-        "version": "10.2.1-rc6",
-        "filename": "Katalon_Studio_Linux_64-10.2.1.tar.gz",
-        "url": "https://download.katalon.com/10.2.1-rc6/Katalon_Studio_Engine_Linux_64-10.2.1.tar.gz"
-    },
-    {
-        "os": "Linux",
-        "version": "10.2.1-rc5",
-        "filename": "Katalon_Studio_Linux_64-10.2.1.tar.gz",
-        "url": "https://download.katalon.com/10.2.1-rc5/Katalon_Studio_Engine_Linux_64-10.2.1.tar.gz"
-    },
-    {
         "os": "macOS (app)",
         "version": "10.2.0",
         "filename": "Katalon.Studio.app.zip",
@@ -52,12 +46,6 @@
         "version": "10.2.0",
         "filename": "Katalon_Studio_Windows_64-10.2.0.zip",
         "url": "https://download.katalon.com/10.2.0/Katalon_Studio_Engine_Windows_64-10.2.0.zip"
-    },
-    {
-        "os": "Linux",
-        "version": "10.1.2-rc1",
-        "filename": "Katalon_Studio_Linux_64-10.1.2.tar.gz",
-        "url": "https://download.katalon.com/10.1.2-rc1/Katalon_Studio_Engine_Linux_64-10.1.2.tar.gz"
     },
     {
         "os": "macOS (app)",
