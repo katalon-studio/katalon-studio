@@ -1,7 +1,7 @@
 ### [Highlights from 10.2.x](https://docs.katalon.com/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-10.x)
 
-*[10.2.4]:
-  * Fixed an issue in Katalon Studio Enterprise 10.2.3 where TestOps authentication override failed on On-Premises environments due to incorrect server configuration.
+* [10.2.4]:
+  * Fixed authentication issues with the On-Premises version 2.1.8
 * [10.2.3]:
   * [StudioAssist] Introduced the ability to customize engineering prompts for a more tailored AI-assisted experience.
   * Supports TestRail with custom required fields.
