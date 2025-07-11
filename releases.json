@@ -16,7 +16,8 @@
         "version": "10.2.4",
         "filename": "Katalon_Studio_Windows_64-10.2.4.zip",
         "url": "https://download.katalon.com/10.2.4/Katalon_Studio_Engine_Windows_64-10.2.4.zip"
-    },{
+    },
+    {
         "os": "macOS (app)",
         "version": "10.2.3",
         "filename": "Katalon.Studio.app.zip",
