@@ -1,8 +1,8 @@
 {
-    "latestVersion": "10.2.4",
+    "latestVersion": "10.3.0",
     "newMechanism": true,
-    "latestUpdateLocation": "https://download.katalon.com/free/10.2.4/update",
-    "latestPlatformUpdateLocation": "https://download.katalon.com/free/10.2.4/update",
+    "latestUpdateLocation": "https://download.katalon.com/free/10.3.0/update",
+    "latestPlatformUpdateLocation": "https://download.katalon.com/free/10.3.0/update",
     "releaseNotesLink": "https://docs.katalon.com/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-10.x",
     "quickRelease": true
 }
