@@ -1,8 +1,8 @@
 {
-    "latestVersion": "9.7.5",
+    "latestVersion": "9.7.6",
     "newMechanism": true,
-    "latestUpdateLocation": "https://download.katalon.com/free/9.7.5/update",
-    "latestPlatformUpdateLocation": "https://download.katalon.com/free/9.7.5/update",
+    "latestUpdateLocation": "https://download.katalon.com/free/9.7.6/update",
+    "latestPlatformUpdateLocation": "https://download.katalon.com/free/9.7.6/update",
     "releaseNotesLink": "https://docs.katalon.com/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-9.x",
     "quickRelease": true
 }
