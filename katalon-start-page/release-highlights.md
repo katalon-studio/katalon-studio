@@ -1,12 +1,13 @@
-### [Highlights from 10.2.x](https://docs.katalon.com/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-10.x)
+### [Highlights from 10.3.0 and 9.7.6](https://docs.katalon.com/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-10.x)
 
-* [10.2.4]:
-  * Fixed authentication issues with the On-Premises version 2.1.8
-* [10.2.3]:
-  * [StudioAssist] Introduced the ability to customize engineering prompts for a more tailored AI-assisted experience.
-  * Supports TestRail with custom required fields.
-* [10.2.2]:
-  * Fixed the issue where Katalon Studio’s Web Recorder failed to launch on Chrome version 137. 
-* [10.2.0]:
-  * Introduced StudioAssist Chat Window with project-based context.
-  * Introduced new HTML test reports.
+* [10.3.0]:
+  * Introduced self-healing for mobile apps.
+  * Revamped the onboarding tour and added the Knowledge Hub.
+  * Introduced new email report templates for test suites and test suite collections.
+  * Reintroduced Windows desktop app testing.
+  * Added support for Gemini and OpenAI-compatible providers for StudioAssist.
+  * Enhanced Smart Wait and implemented numerous bug fixes for Recorder Plus.
+* [9.7.6]:
+  * Added a shortcut to access Windows Desktop Recorder and Spy from the **Action** menu option.
+  * Katalon Studio now reflects the **Check for release update control** from Admin.
+  * Updated WebDriverManager to 6.1.0 and WebDriverManager URL to [https://msedgedriver.microsoft.com](https://msedgedriver.microsoft.com).
