@@ -3,6 +3,7 @@
 * [10.3.1]:
   * Added new Mobile.enhancedScrolToText and WebUI.jsClick keyword.
   * Added a Remember Me option in the login dialog.
+  * Added the Relogin option to quickly log back in after being logged out.
 * [10.3.0]:
   * Introduced self-healing for mobile apps.
   * Revamped the onboarding tour and added the Knowledge Hub.
