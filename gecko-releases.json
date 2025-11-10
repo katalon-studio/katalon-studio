@@ -31,8 +31,10 @@
     "target_commitish": "release",
     "name": "0.36.0",
     "draft": false,
+    "immutable": false,
     "prerelease": false,
     "created_at": "2025-02-25T11:06:13Z",
+    "updated_at": "2025-04-11T11:14:44Z",
     "published_at": "2025-02-25T11:12:36Z",
     "assets": [
       {
@@ -65,7 +67,8 @@
         "content_type": "application/x-gzip",
         "state": "uploaded",
         "size": 2171662,
-        "download_count": 23665,
+        "digest": null,
+        "download_count": 470653,
         "created_at": "2025-02-25T11:07:39Z",
         "updated_at": "2025-02-25T11:07:43Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-linux-aarch64.tar.gz"
@@ -100,7 +103,8 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 833,
-        "download_count": 790,
+        "digest": null,
+        "download_count": 19932,
         "created_at": "2025-02-25T11:07:43Z",
         "updated_at": "2025-02-25T11:07:43Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-linux-aarch64.tar.gz.asc"
@@ -135,7 +139,8 @@
         "content_type": "application/x-gzip",
         "state": "uploaded",
         "size": 2266693,
-        "download_count": 1319,
+        "digest": null,
+        "download_count": 52345,
         "created_at": "2025-02-25T11:07:43Z",
         "updated_at": "2025-02-25T11:07:50Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-linux32.tar.gz"
@@ -170,7 +175,8 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 833,
-        "download_count": 747,
+        "digest": null,
+        "download_count": 19266,
         "created_at": "2025-02-25T11:07:50Z",
         "updated_at": "2025-02-25T11:07:51Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-linux32.tar.gz.asc"
@@ -205,7 +211,8 @@
         "content_type": "application/x-gzip",
         "state": "uploaded",
         "size": 2306404,
-        "download_count": 563649,
+        "digest": null,
+        "download_count": 13678029,
         "created_at": "2025-02-25T11:07:51Z",
         "updated_at": "2025-02-25T11:07:53Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-linux64.tar.gz"
@@ -240,7 +247,8 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 833,
-        "download_count": 1819,
+        "digest": null,
+        "download_count": 30826,
         "created_at": "2025-02-25T11:07:53Z",
         "updated_at": "2025-02-25T11:07:54Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-linux64.tar.gz.asc"
@@ -275,7 +283,8 @@
         "content_type": "application/x-gzip",
         "state": "uploaded",
         "size": 2066443,
-        "download_count": 40923,
+        "digest": null,
+        "download_count": 839806,
         "created_at": "2025-02-25T11:07:54Z",
         "updated_at": "2025-02-25T11:07:57Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-macos-aarch64.tar.gz"
@@ -310,7 +319,8 @@
         "content_type": "application/x-gzip",
         "state": "uploaded",
         "size": 2291861,
-        "download_count": 25167,
+        "digest": null,
+        "download_count": 386599,
         "created_at": "2025-02-25T11:07:57Z",
         "updated_at": "2025-02-25T11:08:00Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-macos.tar.gz"
@@ -345,7 +355,8 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1695995,
-        "download_count": 7147,
+        "digest": null,
+        "download_count": 121301,
         "created_at": "2025-02-25T11:08:00Z",
         "updated_at": "2025-02-25T11:08:02Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win-aarch64.zip"
@@ -380,7 +391,8 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1780945,
-        "download_count": 18276,
+        "digest": null,
+        "download_count": 374278,
         "created_at": "2025-02-25T11:08:02Z",
         "updated_at": "2025-02-25T11:08:05Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win32.zip"
@@ -415,7 +427,8 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1845646,
-        "download_count": 183948,
+        "digest": null,
+        "download_count": 3229091,
         "created_at": "2025-02-25T11:08:05Z",
         "updated_at": "2025-02-25T11:08:08Z",
         "browser_download_url": "https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip"
@@ -423,18 +436,18 @@
     ],
     "tarball_url": "https://api.github.com/repos/mozilla/geckodriver/tarball/v0.36.0",
     "zipball_url": "https://api.github.com/repos/mozilla/geckodriver/zipball/v0.36.0",
-    "body": "## 0.36.0 (2025-02-25, `a3d508507022`)\r\n\r\n### Known problems\r\n\r\n- _Startup hang with Firefox running in a container (e.g. snap, flatpak):_\r\n\r\n  When Firefox is packaged inside a container (like the default Firefox browser\r\n  shipped with Ubuntu 22.04), it may see a different filesystem to the host.\r\n  This can affect access to the generated profile directory, which may result\r\n  in a hang when starting Firefox. Workarounds are listed in the geckodriver\r\n  [usage documentation](https://firefox-source-docs.mozilla.org/testing/geckodriver/Usage.html#Running-Firefox-in-an-container-based-package).\r\n\r\n### Added\r\n\r\n- Support for searching the Firefox Developer Edition’s default path on macOS.\r\n\r\n  Implemented by [Gatlin Newhouse](https://github.com/gatlinnewhouse).\r\n\r\n- Ability to push a WebExtension archive as created from a base64 encoded string\r\n  to an Android device.\r\n\r\n- Added an `allowPrivateBrowsing` field for POST `/session/{session id}/moz/addon/install`\r\n  to allow the installation of a WebExtension that is enabled in Private Browsing mode.\r\n\r\n- Introduced the [`--allow-system-access`](https://firefox-source-docs.mozilla.org/testing/geckodriver/Flags.html#allow-system-access) command line argument for geckodriver, which will\r\n  be required for future versions of Firefox (potentially starting with 138.0) to allow\r\n  testing in the `chrome` context.\r\n\r\n- Added support for preserving crash dumps for crash report analysis when\r\n  Firefox crashes. If the `MINIDUMP_SAVE_PATH` environment variable is set\r\n  to an existing folder, crash dumps will be saved accordingly. For mobile\r\n  devices, the generated minidump files will be automatically transferred\r\n  to the host machine.\r\n\r\n  For more details see the documentation of how to handle [crash reports](https://firefox-source-docs.mozilla.org/testing/geckodriver/CrashReports.html).\r\n\r\n### Changed\r\n\r\n- Updated the type of the `x` and `y` fields of pointer move actions (mouse and touch)\r\n  from integer to fractional numbers to ensure a more precise input control.\r\n\r\n- Replaced `serde_yaml` with `yaml-rust` because it's no longer officially supported.\r\n\r\n- The `--enable-crash-reporter` command line argument has been deprecated to\r\n  prevent crash reports from being submitted to Socorro. This argument will be\r\n  completely removed in the next version.\r\n\r\n  Instead, use the `MINIDUMP_SAVE_PATH` environment variable to get minidump\r\n  files saved to a specified location.\r\n\r\n### Fixed\r\n\r\n- Fixed route registration for `WebAuthn` commands, which were introduced in\r\n  geckodriver 0.34.0 but mistakenly registered under `/sessions/` instead of\r\n  `/session/`, causing them to be non-functional.\r\n\r\n### Removed\r\n\r\n- Removed the `-no-remote` command-line argument usage for Firefox, which does no longer exist.\r\n",
+    "body": "## 0.36.0 (2025-02-25, `a3d508507022`)\r\n\r\n### Known problems\r\n\r\n- _Startup hang with Firefox running in a container (e.g. snap, flatpak):_\r\n\r\n  When Firefox is packaged inside a container (like the default Firefox browser\r\n  shipped with Ubuntu 22.04), it may see a different filesystem to the host.\r\n  This can affect access to the generated profile directory, which may result\r\n  in a hang when starting Firefox. Workarounds are listed in the geckodriver\r\n  [usage documentation](https://firefox-source-docs.mozilla.org/testing/geckodriver/Usage.html#Running-Firefox-in-an-container-based-package).\r\n\r\n- Virtual Authenticator endpoints are currently unreliable.\r\n\r\n  Since their introduction in geckodriver 0.34.0, several Virtual Authenticator\r\n  endpoints have been reported as non-functional or behaving unexpectedly.\r\n  We recommend avoiding the use of these commands until the known issues have\r\n  been resolved.\r\n\r\n### Added\r\n\r\n- Support for searching the Firefox Developer Edition’s default path on macOS.\r\n\r\n  Implemented by [Gatlin Newhouse](https://github.com/gatlinnewhouse).\r\n\r\n- Ability to push a WebExtension archive as created from a base64 encoded string\r\n  to an Android device.\r\n\r\n- Added an `allowPrivateBrowsing` field for POST `/session/{session id}/moz/addon/install`\r\n  to allow the installation of a WebExtension that is enabled in Private Browsing mode.\r\n\r\n- Introduced the [`--allow-system-access`](https://firefox-source-docs.mozilla.org/testing/geckodriver/Flags.html#allow-system-access) command line argument for geckodriver, which will\r\n  be required for future versions of Firefox (potentially starting with 138.0) to allow\r\n  testing in the `chrome` context.\r\n\r\n- Added support for preserving crash dumps for crash report analysis when\r\n  Firefox crashes. If the `MINIDUMP_SAVE_PATH` environment variable is set\r\n  to an existing folder, crash dumps will be saved accordingly. For mobile\r\n  devices, the generated minidump files will be automatically transferred\r\n  to the host machine.\r\n\r\n  For more details see the documentation of how to handle [crash reports](https://firefox-source-docs.mozilla.org/testing/geckodriver/CrashReports.html).\r\n\r\n### Changed\r\n\r\n- Updated the type of the `x` and `y` fields of pointer move actions (mouse and touch)\r\n  from integer to fractional numbers to ensure a more precise input control.\r\n\r\n  Note: Support for fractional values is available starting with Firefox 137.\r\n  For older versions, clients or tests must explicitly pass integer values for\r\n  both fields.\r\n\r\n- Replaced `serde_yaml` with `yaml-rust` because it's no longer officially supported.\r\n\r\n- The `--enable-crash-reporter` command line argument has been deprecated to\r\n  prevent crash reports from being submitted to Socorro. This argument will be\r\n  completely removed in the next version.\r\n\r\n  Instead, use the `MINIDUMP_SAVE_PATH` environment variable to get minidump\r\n  files saved to a specified location.\r\n\r\n### Fixed\r\n\r\n- Fixed route registration for `WebAuthn` commands, which were introduced in\r\n  geckodriver 0.34.0 but mistakenly registered under `/sessions/` instead of\r\n  `/session/`, causing them to be non-functional.\r\n\r\n### Removed\r\n\r\n- Removed the `-no-remote` command-line argument usage for Firefox, which does no longer exist.\r\n",
     "reactions": {
       "url": "https://api.github.com/repos/mozilla/geckodriver/releases/202267170/reactions",
-      "total_count": 15,
-      "+1": 14,
+      "total_count": 83,
+      "+1": 53,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
       "confused": 0,
-      "heart": 0,
-      "rocket": 1,
-      "eyes": 0
+      "heart": 11,
+      "rocket": 11,
+      "eyes": 8
     }
   },
   {
