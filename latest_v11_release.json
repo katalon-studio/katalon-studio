@@ -10,17 +10,17 @@
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/11.0.0/Katalon%20Studio%20Enterprise%20Arm64.dmg",
+        "location": "https://download.katalon.com/11.0.0/Katalon%20Studio%20Arm64.dmg",
         "file": "mac_arm64",
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/11.0.0/Katalon_Studio_Enterprise_Linux_64-11.0.0.tar.gz",
+        "location": "https://download.katalon.com/11.0.0/Katalon_Studio_Linux_64-11.0.0.tar.gz",
         "file": "linux_64",
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/11.0.0/Katalon_Studio_Enterprise_Linux_arm64-11.0.0.tar.gz",
+        "location": "https://download.katalon.com/11.0.0/Katalon_Studio_Linux_arm64-11.0.0.tar.gz",
         "file": "linux_arm64",
         "type": "kse"
     },
