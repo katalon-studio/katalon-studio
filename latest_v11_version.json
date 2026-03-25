@@ -3,6 +3,6 @@
     "newMechanism": true,
     "latestUpdateLocation": "https://download.katalon.com/update/11.0.1",
     "latestPlatformUpdateLocation": "https://download.katalon.com/update/11.0.1",
-    "releaseNotesLink": "https://docs.katalon.com/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-11.x",
+    "releaseNotesLink": "https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x",
     "quickRelease": true
 }
