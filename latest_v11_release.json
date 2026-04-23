@@ -25,6 +25,31 @@
         "type": "kse"
     },
     {
+        "location": "https://download.katalon.com/11.1.2/Katalon_Studio_Copilot_Windows_64-11.1.2.zip",
+        "file": "win_64",
+        "type": "ksc"
+    },
+    {
+        "location": "https://download.katalon.com/11.1.2/Katalon%20Studio%20Copilot.dmg",
+        "file": "mac_64",
+        "type": "ksc"
+    },
+    {
+        "location": "https://download.katalon.com/11.1.2/Katalon%20Studio%20Copilot%20Arm64.dmg",
+        "file": "mac_arm64",
+        "type": "ksc"
+    },
+    {
+        "location": "https://download.katalon.com/11.1.2/Katalon_Studio_Copilot_Linux_64-11.1.2.tar.gz",
+        "file": "linux_64",
+        "type": "ksc"
+    },
+    {
+        "location": "https://download.katalon.com/11.1.2/Katalon_Studio_Copilot_Linux_arm64-11.1.2.tar.gz",
+        "file": "linux_arm64",
+        "type": "ksc"
+    },
+    {
         "location": "https://download.katalon.com/11.1.2/Katalon_Studio_Engine_Windows_64-11.1.2.zip",
         "file": "win_64",
         "type": "re"
