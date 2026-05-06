@@ -1,76 +1,76 @@
 [
     {
-        "location": "https://download.katalon.com/11.1.2/Katalon_Studio_Windows_64-11.1.2.zip",
+        "location": "https://download.katalon.com/11.1.3/Katalon_Studio_Windows_64-11.1.3.zip",
         "file": "win_64",
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/11.1.2/Katalon%20Studio.dmg",
+        "location": "https://download.katalon.com/11.1.3/Katalon%20Studio.dmg",
         "file": "mac_64",
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/11.1.2/Katalon%20Studio%20Arm64.dmg",
+        "location": "https://download.katalon.com/11.1.3/Katalon%20Studio%20Arm64.dmg",
         "file": "mac_arm64",
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/11.1.2/Katalon_Studio_Linux_64-11.1.2.tar.gz",
+        "location": "https://download.katalon.com/11.1.3/Katalon_Studio_Linux_64-11.1.3.tar.gz",
         "file": "linux_64",
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/11.1.2/Katalon_Studio_Linux_arm64-11.1.2.tar.gz",
+        "location": "https://download.katalon.com/11.1.3/Katalon_Studio_Linux_arm64-11.1.3.tar.gz",
         "file": "linux_arm64",
         "type": "kse"
     },
     {
-        "location": "https://download.katalon.com/11.1.2/Katalon_Studio_Copilot_Windows_64-11.1.2.zip",
+        "location": "https://download.katalon.com/11.1.3/Katalon_Studio_Copilot_Windows_64-11.1.3.zip",
         "file": "win_64",
         "type": "ksc"
     },
     {
-        "location": "https://download.katalon.com/11.1.2/Katalon%20Studio%20Copilot.dmg",
+        "location": "https://download.katalon.com/11.1.3/Katalon%20Studio%20Copilot.dmg",
         "file": "mac_64",
         "type": "ksc"
     },
     {
-        "location": "https://download.katalon.com/11.1.2/Katalon%20Studio%20Copilot%20Arm64.dmg",
+        "location": "https://download.katalon.com/11.1.3/Katalon%20Studio%20Copilot%20Arm64.dmg",
         "file": "mac_arm64",
         "type": "ksc"
     },
     {
-        "location": "https://download.katalon.com/11.1.2/Katalon_Studio_Copilot_Linux_64-11.1.2.tar.gz",
+        "location": "https://download.katalon.com/11.1.3/Katalon_Studio_Copilot_Linux_64-11.1.3.tar.gz",
         "file": "linux_64",
         "type": "ksc"
     },
     {
-        "location": "https://download.katalon.com/11.1.2/Katalon_Studio_Copilot_Linux_arm64-11.1.2.tar.gz",
+        "location": "https://download.katalon.com/11.1.3/Katalon_Studio_Copilot_Linux_arm64-11.1.3.tar.gz",
         "file": "linux_arm64",
         "type": "ksc"
     },
     {
-        "location": "https://download.katalon.com/11.1.2/Katalon_Studio_Engine_Windows_64-11.1.2.zip",
+        "location": "https://download.katalon.com/11.1.3/Katalon_Studio_Engine_Windows_64-11.1.3.zip",
         "file": "win_64",
         "type": "re"
     },
     {
-        "location": "https://download.katalon.com/11.1.2/Katalon_Studio_Engine_MacOS-11.1.2.tar.gz",
+        "location": "https://download.katalon.com/11.1.3/Katalon_Studio_Engine_MacOS-11.1.3.tar.gz",
         "file": "mac_64",
         "type": "re"
     },
     {
-        "location": "https://download.katalon.com/11.1.2/Katalon_Studio_Engine_MacOS_Arm64-11.1.2.tar.gz",
+        "location": "https://download.katalon.com/11.1.3/Katalon_Studio_Engine_MacOS_Arm64-11.1.3.tar.gz",
         "file": "mac_arm64",
         "type": "re"
     },
     {
-        "location": "https://download.katalon.com/11.1.2/Katalon_Studio_Engine_Linux_64-11.1.2.tar.gz",
+        "location": "https://download.katalon.com/11.1.3/Katalon_Studio_Engine_Linux_64-11.1.3.tar.gz",
         "file": "linux_64",
         "type": "re"
     },
     {
-        "location": "https://download.katalon.com/11.1.2/Katalon_Studio_Engine_Linux_arm64-11.1.2.tar.gz",
+        "location": "https://download.katalon.com/11.1.3/Katalon_Studio_Engine_Linux_arm64-11.1.3.tar.gz",
         "file": "linux_arm64",
         "type": "re"
     }
