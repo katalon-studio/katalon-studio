@@ -1,8 +1,8 @@
 {
-    "latestVersion": "11.1.3",
+    "latestVersion": "11.2.0",
     "newMechanism": true,
-    "latestUpdateLocation": "https://download.katalon.com/update/11.1.3",
-    "latestPlatformUpdateLocation": "https://download.katalon.com/update/11.1.3",
+    "latestUpdateLocation": "https://download.katalon.com/update/11.2.0",
+    "latestPlatformUpdateLocation": "https://download.katalon.com/update/11.2.0",
     "releaseNotesLink": "https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x",
     "quickRelease": true
 }
