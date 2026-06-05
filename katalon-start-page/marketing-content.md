@@ -1,7 +1,11 @@
-### [Celebrate our newest Katalon Academy milestones & win $30!](https://forum.katalon.com/t/celebrate-our-newest-katalon-academy-milestones-win-30/141017?u=albert.vu)
+**🎉 Studio 11.2.0 is here**: Katalon AI Assistant now runs multiple chats — switch between sessions without losing context.
+[Release notes →](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x)
 
-[<img src="https://github.com/user-attachments/assets/41a5e51a-f31a-4717-90f5-a3258e3771d4">](https://forum.katalon.com/t/celebrate-our-newest-katalon-academy-milestones-win-30/141017?u=albert.vu)
+**🤖 AI Failure Analysis categories**: Reports now group failures by AI-determined cause, so you spot patterns at a glance.
+[Learn more →](https://docs.katalon.com/katalon-studio/studioassist/studioassist-ai-failure-analysis)
 
-Inspire others with your learning stories and get rewarded! From now till Aug 30, 2024, share with us how learning on Katalon Academy has improved your skills, knowledge, and career, and you could win $30 as well as get featured on our Learner Stories page and social media! 
+**🔧 Smarter AI Self-Healing**: Locator repair now leads with the element screenshot for more accurate healing.
+[Learn more →](https://docs.katalon.com/katalon-studio/maintain-tests/self-healing-tests-in-katalon-studio)
 
-[**Share your stories now!**](https://forum.katalon.com/t/celebrate-our-newest-katalon-academy-milestones-win-30/141017?u=albert.vu)
+**💡 Tip of the day**: Build custom dashboards in True Platform for real-time test visibility.
+[Learn how →](https://docs.katalon.com/katalon-platform/analyze/create-custom-dashboards)
