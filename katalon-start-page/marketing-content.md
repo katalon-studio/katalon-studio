@@ -1,6 +1,6 @@
 ### [Studio 11.3.0 is here 🎉](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x)
 
-[<img width="672" height="688" alt="image" src="https://github.com/user-attachments/assets/b44eb198-3525-4843-b362-5c6fb7806fad" />](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x)
+[<img src="https://github.com/user-attachments/assets/b44eb198-3525-4843-b362-5c6fb7806fad" />](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x)
 
 **🧩 See your whole test flow**: Group AI, recorder, or manual steps under a named intention like "Login" — traceable from intent to automation. [Learn more →](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x#intention-groups-for-generated-and-manual-test-steps)
 
