@@ -1,14 +1,9 @@
-### [Studio 11.2.1 is here 🎉](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x)
+### [Studio 11.3.0 is here 🎉](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x)
 
-[<img src="https://github.com/user-attachments/assets/376cec79-0731-466e-93fa-ef50b9ec530c" />](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x)
+[<img width="672" height="688" alt="image" src="https://github.com/user-attachments/assets/b44eb198-3525-4843-b362-5c6fb7806fad" />](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x)
 
-**📊 Your True Platform results, one click away**: Open a run's full execution results on True Platform right from Job Progress or the Katalon AI Assistant chat. [Learn more →](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x#version-1121-latest-version)
+**🧩 See your whole test flow**: Group AI, recorder, or manual steps under a named intention like "Login" — traceable from intent to automation. [Learn more →](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x#intention-groups-for-generated-and-manual-test-steps)
 
-**✨ Katalon AI Assistant just got better**: Run multiple chats and switch between sessions without losing context.
-[Learn more →](https://docs.katalon.com/katalon-studio/studioassist/studioassist-agent-mode)
+**💾 Save AI-generated API tests**: Keep selected AI-generated API test cases in your repository and maintain them like any other test. [Learn more →](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x#save-ai-generated-api-test-cases-to-the-repository)
 
-**🤖 AI Failure Analysis categories**: Reports now group failures by AI-determined cause, so you spot patterns at a glance.
-[Learn more →](https://docs.katalon.com/katalon-studio/studioassist/studioassist-ai-failure-analysis)
-
-**🔧 Smarter AI Self-Healing**: Locator repair now leads with the element screenshot for more accurate healing.
-[Learn more →](https://docs.katalon.com/katalon-studio/maintain-tests/self-healing-tests-in-katalon-studio)
+**🤖 No more 128-tool limit**: Turn on all the MCP servers you need — Katalon AI Assistant auto-picks the right tools for each request.
