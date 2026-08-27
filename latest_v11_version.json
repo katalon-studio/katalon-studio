@@ -4,5 +4,5 @@
     "latestUpdateLocation": "https://download.katalon.com/update/11.5.0",
     "latestPlatformUpdateLocation": "https://download.katalon.com/update/11.5.0",
     "releaseNotesLink": "https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x",
-    "quickRelease": true
+    "quickRelease": false
 }
