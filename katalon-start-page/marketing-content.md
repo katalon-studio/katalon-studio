@@ -1,8 +1,6 @@
-### [Studio 11.4.0 is here 🎉](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x)
+### [Studio 11.5.0 just landed 🎉](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x#version-1150-latest-version)
 
-[<img src="https://github.com/user-attachments/assets/c6812b81-e8fd-4e95-890c-e61df8b552b8"/>](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x)
-
-- **⚡ Cut suite runtime, not coverage**: Run test cases in a suite in parallel — reports, artifacts, and self-healing stay tied to the right run.
-- **🧠 Watch the agent think**: Katalon AI Assistant streams its plan, reasoning, and tool results step by step — no more black-box runs.
-- **📱 Interactive mobile recording, now GA**: Tap, swipe, zoom, and send keys on a live-streamed device while the recorder stays in sync.
-- **📄 Consolidated report**: Open steps, data bindings, and retry attempts consolidated in one test suite HTML report.
+[<img src="https://github.com/user-attachments/assets/4c04036d-894f-44e0-a80e-8a9241bd05eb"/>](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x#version-1150-latest-version)
+- 🧠 **Stop re-explaining your project** — Katalon AI Assistant now remembers your project context and preferences across conversations and Studio sessions.
+- 🪄 **AI assertion keywords** — New Ask, Assert Text, and Assert File keywords bring AI-powered validation straight into your test steps.
+- 📄 **Redesigned PDF reports** — Error summaries, retry attempts, hooks, and AI failure analysis now live in the PDF.
