@@ -1,6 +1,9 @@
-### [Studio 11.5.0 just landed 🎉](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x#version-1150-latest-version)
+[<img src="https://github.com/user-attachments/assets/18ea8ac0-187b-412b-a9c3-c7f424826899"/>](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x#version-1160-latest-version)
 
-[<img src="https://katalon.com/hubfs/studio-11-5-0-news-hero-green.png"/>](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x#version-1150-latest-version)
-- 🧠 **Stop re-explaining your project** — Katalon AI Assistant now remembers your project context and preferences across conversations and Studio sessions.
-- 🪄 **AI assertion keywords** — New Ask, Assert Text, and Assert File keywords bring AI-powered validation straight into your test steps.
-- 📄 **Redesigned PDF reports** — Error summaries, retry attempts, hooks, and AI failure analysis now live in the PDF.
+- **Data-driven testing with AI:** Let your AI assistant bind test data for you.
+- **Pause and resume Test Suites:** Take a break mid-run and pick up where you left off.
+- **AND/OR tag queries:** Combine tags to run exactly the tests you need.
+- **Editable XPath locators:** Add or fix XPaths right in the Test Object.
+- **Faster startup:** Studio, projects and test runs all start faster.
+
+[See everything new in 11.6.0 →](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x#version-1160-latest-version)
