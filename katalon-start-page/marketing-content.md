@@ -1,9 +1,9 @@
-[<img src="https://github.com/user-attachments/assets/18ea8ac0-187b-412b-a9c3-c7f424826899"/>](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x#version-1160-latest-version)
+[<img src="https://github.com/user-attachments/assets/438c8b20-5094-47f0-a17b-154d94d91286"/>](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x#version-1170-latest-version)
 
-- **Data-driven testing with AI:** Let your AI assistant bind test data for you.
-- **Pause and resume Test Suites:** Take a break mid-run and pick up where you left off.
-- **AND/OR tag queries:** Combine tags to run exactly the tests you need.
-- **Editable XPath locators:** Add or fix XPaths right in the Test Object.
-- **Faster startup:** Studio, projects and test runs all start faster.
+- **Hybrid mobile testing:** Record and run native and WebView steps in one test.
+- **End-to-end BDD with AI:** Let AI write and run your BDD tests for you.
+- **Postman environments:** Import variables along with your collection.
+- **Project AI controls:** Manage every AI feature from one settings page.
+- **Faster on large projects:** Quicker startup, search, and Object Repository.
 
-[See everything new in 11.6.0 →](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x#version-1160-latest-version)
+[See everything new in 11.7.0 →](https://docs.katalon.com/katalon-studio/release-notes/katalon-studio-release-notes-version-11.x#version-1170-latest-version)
